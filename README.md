@@ -18,3 +18,21 @@ git remote -v <br>
  Push the changes in your local repository to GitHub. <br>
 
 git push -f origin master <br>
+
+
+<b>…or create a new repository on the command line</b>
+echo "# eureka-web-app" >> README.md<br> 
+git init   <br>
+git add README.md   <br>
+git commit -m "first commit"  <br>
+git remote add origin https://github.com/prk54989/eureka-web-app.git  <br>
+git push -u origin master  <br>
+
+<b>…or push an existing repository from the command line</b>
+git remote add origin https://github.com/prk54989/eureka-web-app.git  <br>
+git push -u origin master   <br>
+
+<b>…or import code from another repository</b>
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
