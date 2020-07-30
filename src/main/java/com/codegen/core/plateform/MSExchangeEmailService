@@ -250,6 +250,7 @@ public class MSExchangeEmailService {
 //		}
 //
 //	}
-
+    compile 'com.microsoft.graph:microsoft-graph-core:1.0.1'
+    compile 'com.microsoft.graph:microsoft-graph:1.7.1'
 
 }
