@@ -1,19 +1,32 @@
-package com.mail.ingetion.service;
+package com.mail.ingetion.model;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.List;
 import java.util.Properties;
 
+import javax.activation.DataHandler;
+import javax.activation.DataSource;
+import javax.activation.FileDataSource;
 import javax.mail.Address;
 import javax.mail.FetchProfile;
 import javax.mail.Flags;
 import javax.mail.Folder;
 import javax.mail.Message;
 import javax.mail.MessagingException;
+import javax.mail.Multipart;
 import javax.mail.Session;
 import javax.mail.Store;
+import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeBodyPart;
+import javax.mail.internet.MimeMessage;
+import javax.mail.internet.MimeMultipart;
 import javax.mail.search.FlagTerm;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 
 public class OutLookReader_imaps {
@@ -24,6 +37,7 @@ public class OutLookReader_imaps {
     @Value("${spring.mail.password}")
     private String password = "Fzs_3422";
 
+    @Autowired
     Folder inbox;
 
     // Constructor of the calss.
@@ -100,6 +114,8 @@ public class OutLookReader_imaps {
     }
 
     public void printEnvelope(Message message) throws Exception {
+    	
+    	 createMessage( message) ;
 
         Address[] a;
 
@@ -129,5 +145,100 @@ public class OutLookReader_imaps {
     public static void main(String args[]) {
         new OutLookReader_imaps();
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+//    public static void createMessage(String to, String from, String subject, String body, List<File> attachments) {
+    public  void createMessage(Message message) throws MessagingException {
+    	String subject = message.getSubject();
+        try {
+//            Message message = new MimeMessage(Session.getInstance(System.getProperties()));
+//            message.setFrom(new InternetAddress(from));
+//            message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(to));
+//            message.setSubject(subject);
+            // create the message part 
+//            MimeBodyPart content = new MimeBodyPart();
+//            // fill message
+//            content.setText(body);
+//            Multipart multipart = new MimeMultipart();
+//            multipart.addBodyPart(content);
+            // add attachments
+//            for(File file : attachments) {
+//                MimeBodyPart attachment = new MimeBodyPart();
+//                DataSource source = new FileDataSource(file);
+//                attachment.setDataHandler(new DataHandler(source));
+//                attachment.setFileName(file.getName());
+//                multipart.addBodyPart(attachment);
+//            }
+            // integration
+//            message.setContent(multipart);
+            // store file
+        	String filename = "c:/tmp/"+subject+".msg";
+            message.writeTo(new FileOutputStream(new File(filename)));
+        } catch (MessagingException ex) {
+        	System.out.println(" MSG Exp "+ex);
+//            Logger.getLogger(Mailkit.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+//            Logger.getLogger(Mailkit.class.getName()).log(Level.SEVERE, null, ex);
+        	System.out.println(" MSG IOException "+ex);
+        }
+    }  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
 
