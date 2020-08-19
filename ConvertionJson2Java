@@ -1,0 +1,423 @@
+==================================
+package ;
+public class Body
+{
+    private String contentType;
+
+    private String content;
+
+    public void setContentType(String contentType){
+        this.contentType = contentType;
+    }
+    public String getContentType(){
+        return this.contentType;
+    }
+    public void setContent(String content){
+        this.content = content;
+    }
+    public String getContent(){
+        return this.content;
+    }
+}
+
+==================================
+package ;
+public class EmailAddress
+{
+    private String name;
+
+    private String address;
+
+    public void setName(String name){
+        this.name = name;
+    }
+    public String getName(){
+        return this.name;
+    }
+    public void setAddress(String address){
+        this.address = address;
+    }
+    public String getAddress(){
+        return this.address;
+    }
+}
+
+==================================
+package ;
+public class Sender
+{
+    private EmailAddress emailAddress;
+
+    public void setEmailAddress(EmailAddress emailAddress){
+        this.emailAddress = emailAddress;
+    }
+    public EmailAddress getEmailAddress(){
+        return this.emailAddress;
+    }
+}
+
+==================================
+package ;
+public class EmailAddress
+{
+    private String name;
+
+    private String address;
+
+    public void setName(String name){
+        this.name = name;
+    }
+    public String getName(){
+        return this.name;
+    }
+    public void setAddress(String address){
+        this.address = address;
+    }
+    public String getAddress(){
+        return this.address;
+    }
+}
+
+==================================
+package ;
+public class From
+{
+    private EmailAddress emailAddress;
+
+    public void setEmailAddress(EmailAddress emailAddress){
+        this.emailAddress = emailAddress;
+    }
+    public EmailAddress getEmailAddress(){
+        return this.emailAddress;
+    }
+}
+
+==================================
+package ;
+public class EmailAddress
+{
+    private String name;
+
+    private String address;
+
+    public void setName(String name){
+        this.name = name;
+    }
+    public String getName(){
+        return this.name;
+    }
+    public void setAddress(String address){
+        this.address = address;
+    }
+    public String getAddress(){
+        return this.address;
+    }
+}
+
+==================================
+package ;
+public class ToRecipients
+{
+    private EmailAddress emailAddress;
+
+    public void setEmailAddress(EmailAddress emailAddress){
+        this.emailAddress = emailAddress;
+    }
+    public EmailAddress getEmailAddress(){
+        return this.emailAddress;
+    }
+}
+
+==================================
+package ;
+public class Flag
+{
+    private String flagStatus;
+
+    public void setFlagStatus(String flagStatus){
+        this.flagStatus = flagStatus;
+    }
+    public String getFlagStatus(){
+        return this.flagStatus;
+    }
+}
+
+==================================
+package ;
+import java.util.ArrayList;
+import java.util.List;
+public class Value
+{
+    private String @odata.etag;
+
+    private String id;
+
+    private String createdDateTime;
+
+    private String lastModifiedDateTime;
+
+    private String changeKey;
+
+    private List<String> categories;
+
+    private String receivedDateTime;
+
+    private String sentDateTime;
+
+    private boolean hasAttachments;
+
+    private String internetMessageId;
+
+    private String subject;
+
+    private String bodyPreview;
+
+    private String importance;
+
+    private String parentFolderId;
+
+    private String conversationId;
+
+    private String conversationIndex;
+
+    private String isDeliveryReceiptRequested;
+
+    private boolean isReadReceiptRequested;
+
+    private boolean isRead;
+
+    private boolean isDraft;
+
+    private String webLink;
+
+    private String inferenceClassification;
+
+    private Body body;
+
+    private Sender sender;
+
+    private From from;
+
+    private List<ToRecipients> toRecipients;
+
+    private List<String> ccRecipients;
+
+    private List<String> bccRecipients;
+
+    private List<String> replyTo;
+
+    private Flag flag;
+
+    public void set@odata.etag(String @odata.etag){
+        this.@odata.etag = @odata.etag;
+    }
+    public String get@odata.etag(){
+        return this.@odata.etag;
+    }
+    public void setId(String id){
+        this.id = id;
+    }
+    public String getId(){
+        return this.id;
+    }
+    public void setCreatedDateTime(String createdDateTime){
+        this.createdDateTime = createdDateTime;
+    }
+    public String getCreatedDateTime(){
+        return this.createdDateTime;
+    }
+    public void setLastModifiedDateTime(String lastModifiedDateTime){
+        this.lastModifiedDateTime = lastModifiedDateTime;
+    }
+    public String getLastModifiedDateTime(){
+        return this.lastModifiedDateTime;
+    }
+    public void setChangeKey(String changeKey){
+        this.changeKey = changeKey;
+    }
+    public String getChangeKey(){
+        return this.changeKey;
+    }
+    public void setCategories(List<String> categories){
+        this.categories = categories;
+    }
+    public List<String> getCategories(){
+        return this.categories;
+    }
+    public void setReceivedDateTime(String receivedDateTime){
+        this.receivedDateTime = receivedDateTime;
+    }
+    public String getReceivedDateTime(){
+        return this.receivedDateTime;
+    }
+    public void setSentDateTime(String sentDateTime){
+        this.sentDateTime = sentDateTime;
+    }
+    public String getSentDateTime(){
+        return this.sentDateTime;
+    }
+    public void setHasAttachments(boolean hasAttachments){
+        this.hasAttachments = hasAttachments;
+    }
+    public boolean getHasAttachments(){
+        return this.hasAttachments;
+    }
+    public void setInternetMessageId(String internetMessageId){
+        this.internetMessageId = internetMessageId;
+    }
+    public String getInternetMessageId(){
+        return this.internetMessageId;
+    }
+    public void setSubject(String subject){
+        this.subject = subject;
+    }
+    public String getSubject(){
+        return this.subject;
+    }
+    public void setBodyPreview(String bodyPreview){
+        this.bodyPreview = bodyPreview;
+    }
+    public String getBodyPreview(){
+        return this.bodyPreview;
+    }
+    public void setImportance(String importance){
+        this.importance = importance;
+    }
+    public String getImportance(){
+        return this.importance;
+    }
+    public void setParentFolderId(String parentFolderId){
+        this.parentFolderId = parentFolderId;
+    }
+    public String getParentFolderId(){
+        return this.parentFolderId;
+    }
+    public void setConversationId(String conversationId){
+        this.conversationId = conversationId;
+    }
+    public String getConversationId(){
+        return this.conversationId;
+    }
+    public void setConversationIndex(String conversationIndex){
+        this.conversationIndex = conversationIndex;
+    }
+    public String getConversationIndex(){
+        return this.conversationIndex;
+    }
+    public void setIsDeliveryReceiptRequested(String isDeliveryReceiptRequested){
+        this.isDeliveryReceiptRequested = isDeliveryReceiptRequested;
+    }
+    public String getIsDeliveryReceiptRequested(){
+        return this.isDeliveryReceiptRequested;
+    }
+    public void setIsReadReceiptRequested(boolean isReadReceiptRequested){
+        this.isReadReceiptRequested = isReadReceiptRequested;
+    }
+    public boolean getIsReadReceiptRequested(){
+        return this.isReadReceiptRequested;
+    }
+    public void setIsRead(boolean isRead){
+        this.isRead = isRead;
+    }
+    public boolean getIsRead(){
+        return this.isRead;
+    }
+    public void setIsDraft(boolean isDraft){
+        this.isDraft = isDraft;
+    }
+    public boolean getIsDraft(){
+        return this.isDraft;
+    }
+    public void setWebLink(String webLink){
+        this.webLink = webLink;
+    }
+    public String getWebLink(){
+        return this.webLink;
+    }
+    public void setInferenceClassification(String inferenceClassification){
+        this.inferenceClassification = inferenceClassification;
+    }
+    public String getInferenceClassification(){
+        return this.inferenceClassification;
+    }
+    public void setBody(Body body){
+        this.body = body;
+    }
+    public Body getBody(){
+        return this.body;
+    }
+    public void setSender(Sender sender){
+        this.sender = sender;
+    }
+    public Sender getSender(){
+        return this.sender;
+    }
+    public void setFrom(From from){
+        this.from = from;
+    }
+    public From getFrom(){
+        return this.from;
+    }
+    public void setToRecipients(List<ToRecipients> toRecipients){
+        this.toRecipients = toRecipients;
+    }
+    public List<ToRecipients> getToRecipients(){
+        return this.toRecipients;
+    }
+    public void setCcRecipients(List<String> ccRecipients){
+        this.ccRecipients = ccRecipients;
+    }
+    public List<String> getCcRecipients(){
+        return this.ccRecipients;
+    }
+    public void setBccRecipients(List<String> bccRecipients){
+        this.bccRecipients = bccRecipients;
+    }
+    public List<String> getBccRecipients(){
+        return this.bccRecipients;
+    }
+    public void setReplyTo(List<String> replyTo){
+        this.replyTo = replyTo;
+    }
+    public List<String> getReplyTo(){
+        return this.replyTo;
+    }
+    public void setFlag(Flag flag){
+        this.flag = flag;
+    }
+    public Flag getFlag(){
+        return this.flag;
+    }
+}
+
+==================================
+package ;
+import java.util.ArrayList;
+import java.util.List;
+public class Root
+{
+    private String @odata.context;
+
+    private String @odata.nextLink;
+
+    private List<Value> value;
+
+    public void set@odata.context(String @odata.context){
+        this.@odata.context = @odata.context;
+    }
+    public String get@odata.context(){
+        return this.@odata.context;
+    }
+    public void set@odata.nextLink(String @odata.nextLink){
+        this.@odata.nextLink = @odata.nextLink;
+    }
+    public String get@odata.nextLink(){
+        return this.@odata.nextLink;
+    }
+    public void setValue(List<Value> value){
+        this.value = value;
+    }
+    public List<Value> getValue(){
+        return this.value;
+    }
+}
