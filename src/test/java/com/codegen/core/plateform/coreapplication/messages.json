@@ -1,0 +1,546 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('pr330516%40outlook.com')/messages",
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/messages?$skip=10",
+    "value": [
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5gF\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2zQAAAA=",
+            "createdDateTime": "2020-08-20T05:22:45Z",
+            "lastModifiedDateTime": "2020-08-20T05:22:46Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5gF",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:22:45Z",
+            "sentDateTime": "2020-08-20T05:22:45Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB2692629B17086C0D4E5CD336DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "Please sign in to your Outlook.com account",
+            "bodyPreview": "Hello Praveen Kumar,\r\nTo continue sending messages, please sign in and validate your Outlook.com account.\r\nThis helps us stop automated programs from sending junk email.\r\nThanks for your help and patience!\r\nThe Outlook.com Team\r\nMicrosoft respects your pr",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAAAAfhjBnsN0Ra7CEOQxW0Ve",
+            "conversationIndex": "AQHWdrHvAH4YwZ7DdEWuwhDkMVtFXg==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2zQAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=iso-8859-1\"><style type=\"text/css\">\r\n<!--\r\n.MLetter\r\n\t{font-family:Tahoma,Verdana,Arial,sans-serif;\r\n\tfont-size:14px;\r\n\tcolor:#454545;\r\n\tline-height:normal;\r\n\tdirection:ltr;\r\n\tpadding:0px 2px}\r\n.MLetter .MText\r\n\t{font-size:14px;\r\n\tline-height:20px}\r\n.MLetter .MSubhead\r\n\t{font-family:'Segoe UI Web Semibold','Segoe UI Web Regular','Segoe UI','Helvetica Neue Medium',Arial;\r\n\tcolor:#0072C6;\r\n\tfont-size:19px;\r\n\tline-height:25px}\r\n.MLetter .MPreHeader\r\n\t{display:none}\r\n.MLetter .MPreHeader .MText\r\n\t{color:#ffffff}\r\n.MLetter .MHeader\r\n\t{background-color:#0072C6;\r\n\tcolor:#ffffff;\r\n\tpadding:50px 30px 50px}\r\n.MLetter .MHeader .MTitle\r\n\t{font-family:'Segoe UI Web Light','Segoe UI Light','Segoe UI Web Regular','Segoe UI','Helvetica Neue UltraLight',Arial;\r\n\tfont-size:40px;\r\n\tline-height:40px}\r\n.MLetter .MContent .MPara\r\n\t{padding-top:30px}\r\n.MLetter .MContent a\r\n\t{color:#0072C6;\r\n\ttext-decoration:none}\r\n.MLetter .MFooter\r\n\t{background-color:#bbbbbb;\r\n\tcolor:#ffffff;\r\n\tfont-family:Arial;\r\n\tfont-size:11px;\r\n\tpadding:30px}\r\n.MLetter .MFooter .MPara\r\n\t{padding-top:10px}\r\n.MLetter .MFooter a\r\n\t{color:#ffffff}\r\n-->\r\n</style></head><body><div class=\"MLetter\"><div class=\"MContent\" style=\"padding:22px 30px\"><div class=\"MPara\"><div class=\"MText\">Hello Praveen Kumar, </div></div><div class=\"MPara\"><div class=\"MText\">To continue sending messages, please <a href=\"https://outlook.live.com/owa/\" target=\"_blank\">sign in</a> and validate your Outlook.com account. </div></div><div class=\"MPara\"><div class=\"MText\">This helps us stop automated programs from sending junk email. </div></div><div class=\"MPara\"><div class=\"MText\">Thanks for your help and patience! </div></div><div class=\"MPara\"><div class=\"MText\" style=\"padding-bottom:35px\">The Outlook.com Team </div></div></div><div class=\"MFooter\"><div>Microsoft respects your privacy. To learn more, please read our online <a href=\"http://go.microsoft.com/fwlink/p/?LinkId=253457\">Privacy Statement</a>. </div><div class=\"MPara\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA © 2020 Microsoft Corporation. All rights reserved. </div></div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Outlook.com Team",
+                    "address": "member_services@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Outlook.com Team",
+                    "address": "member_services@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Praveen Kumar",
+                        "address": "pr330516@outlook.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5f6\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2zMAAAA=",
+            "createdDateTime": "2020-08-20T05:22:37Z",
+            "lastModifiedDateTime": "2020-08-20T05:22:39Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5f6",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:22:37Z",
+            "sentDateTime": "2020-08-20T05:22:37Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB2692B55EDE1BEDF8C14C1D4CDC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "Please sign in to your Outlook.com account",
+            "bodyPreview": "Hello Praveen Kumar,\r\nTo continue sending messages, please sign in and validate your Outlook.com account.\r\nThis helps us stop automated programs from sending junk email.\r\nThanks for your help and patience!\r\nThe Outlook.com Team\r\nMicrosoft respects your pr",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQACuZj68wkUdEvnph5R7SMzs=",
+            "conversationIndex": "AQHWdrHqK5mPrzCRR0S+emHlHtIzOw==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2zMAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=iso-8859-1\"><style type=\"text/css\">\r\n<!--\r\n.MLetter\r\n\t{font-family:Tahoma,Verdana,Arial,sans-serif;\r\n\tfont-size:14px;\r\n\tcolor:#454545;\r\n\tline-height:normal;\r\n\tdirection:ltr;\r\n\tpadding:0px 2px}\r\n.MLetter .MText\r\n\t{font-size:14px;\r\n\tline-height:20px}\r\n.MLetter .MSubhead\r\n\t{font-family:'Segoe UI Web Semibold','Segoe UI Web Regular','Segoe UI','Helvetica Neue Medium',Arial;\r\n\tcolor:#0072C6;\r\n\tfont-size:19px;\r\n\tline-height:25px}\r\n.MLetter .MPreHeader\r\n\t{display:none}\r\n.MLetter .MPreHeader .MText\r\n\t{color:#ffffff}\r\n.MLetter .MHeader\r\n\t{background-color:#0072C6;\r\n\tcolor:#ffffff;\r\n\tpadding:50px 30px 50px}\r\n.MLetter .MHeader .MTitle\r\n\t{font-family:'Segoe UI Web Light','Segoe UI Light','Segoe UI Web Regular','Segoe UI','Helvetica Neue UltraLight',Arial;\r\n\tfont-size:40px;\r\n\tline-height:40px}\r\n.MLetter .MContent .MPara\r\n\t{padding-top:30px}\r\n.MLetter .MContent a\r\n\t{color:#0072C6;\r\n\ttext-decoration:none}\r\n.MLetter .MFooter\r\n\t{background-color:#bbbbbb;\r\n\tcolor:#ffffff;\r\n\tfont-family:Arial;\r\n\tfont-size:11px;\r\n\tpadding:30px}\r\n.MLetter .MFooter .MPara\r\n\t{padding-top:10px}\r\n.MLetter .MFooter a\r\n\t{color:#ffffff}\r\n-->\r\n</style></head><body><div class=\"MLetter\"><div class=\"MContent\" style=\"padding:22px 30px\"><div class=\"MPara\"><div class=\"MText\">Hello Praveen Kumar, </div></div><div class=\"MPara\"><div class=\"MText\">To continue sending messages, please <a href=\"https://outlook.live.com/owa/\" target=\"_blank\">sign in</a> and validate your Outlook.com account. </div></div><div class=\"MPara\"><div class=\"MText\">This helps us stop automated programs from sending junk email. </div></div><div class=\"MPara\"><div class=\"MText\">Thanks for your help and patience! </div></div><div class=\"MPara\"><div class=\"MText\" style=\"padding-bottom:35px\">The Outlook.com Team </div></div></div><div class=\"MFooter\"><div>Microsoft respects your privacy. To learn more, please read our online <a href=\"http://go.microsoft.com/fwlink/p/?LinkId=253457\">Privacy Statement</a>. </div><div class=\"MPara\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA © 2020 Microsoft Corporation. All rights reserved. </div></div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Outlook.com Team",
+                    "address": "member_services@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Outlook.com Team",
+                    "address": "member_services@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Praveen Kumar",
+                        "address": "pr330516@outlook.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5fu\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LgAAAA=",
+            "createdDateTime": "2020-08-20T05:22:11Z",
+            "lastModifiedDateTime": "2020-08-20T05:22:13Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5fu",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:22:11Z",
+            "sentDateTime": "2020-08-20T05:22:11Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB26920F0253D33FC6CD6E00A6DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "D488854339",
+            "bodyPreview": "A la requête de votre créancier, PAYPAL (Europe) SARL & Cie- 2644-24\r\n\r\nBoulevard ROYAL –L-2644 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAH17dC3yPZtKuNvKRVv4ObU=",
+            "conversationIndex": "AQHWdrHbfXt0LfI9m0q428pFW/g5tQ==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LgAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=utf-8\"></head><body><div><div><br><br>A la requête de votre créancier, PAYPAL (Europe) SARL &amp; Cie- 2644-24 <br><br>Boulevard ROYAL –L-2644 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL à ce jour.<br>En vertu du mandat qui nous a été confié par PAYPAL, dans le cadre d’un recouvrement amiable nous agissons conformément à la loi du 09/07/1991 (art. 32*). Aucun frais ne vous est réclamé à ce stade de la procédure.<br><br>Nature de la créance : compte PAYPAL MONTANT TTC : 42,93 EUR.<br><br>Date de limite de paiement : à réception de ce courrier électronique A défaut de paiement, nous serons contraints de transmettre votre<br><br>dossier à notre service juridique chargé d’engager une procédure contentieuse à votre encontre, et qui pourra éventuellement saisir le<br><br>tribunal afin d’obtenir un titre exécutoire, ce qui ajouterait au principal de la créance les dommages et intérêts légaux, ainsi que ceux demandés au titre de l’Article 889 du Nouveau Code de Procédure Civile.<br>Tout paiement doit être adressé à : CER Recouvrement BP 14576 2644 TOULOUSE Cedex 01 en rappelant la référence CER suivante : 114381693<br><br>Modes de paiement acceptés : -Carte Bancaire et Paypal en cliquant sur le lien ci-dessous:<br><br><a href=\"https://bit.ly/2Q6312g\"><span style=\"color:#0000ff\"><strong>Cliquez içi</strong></span></a><br><br>_____________________<br>Note : il est impossible de répondre à ce message électronique pour raison de sécurité et de confidentialité des informations vous concernant.<br><br>* « sauf s’ils concernent un acte dont l’accomplissement est prescrit par la loi, les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier<br>toute stipulation contraire est réputée non écrite Cependant.<br>le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut demander au juge de l’exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi. »<br>Toute divulgation, distribution ou reproduction, meme partielle, en est strictement interdite.<br>Si vous recevez ce message par erreur, veuillez le notifier a son emetteur par retour, et le detruire ainsi que tous les documents qui y sont attaches.</div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard2675@hotmail.com",
+                        "address": "gerard2675@hotmail.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5rT\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LcAAAA=",
+            "createdDateTime": "2020-08-20T05:21:49Z",
+            "lastModifiedDateTime": "2020-08-20T05:37:09Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5rT",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:21:50Z",
+            "sentDateTime": "2020-08-20T05:21:50Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB2692C92D30F54630E842E4CDDC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "D540842205",
+            "bodyPreview": "A la requête de votre créancier, PAYPAL (Europe) SARL & Cie- 8333-24\r\n\r\nBoulevard ROYAL –L-8333 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAMjrYfNoq2xDkIQAx8hXLkQ=",
+            "conversationIndex": "AQHWdrHOyOth82irbEOQhADHyFcuRA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LcAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=utf-8\"></head><body><div><div><br><br>A la requête de votre créancier, PAYPAL (Europe) SARL &amp; Cie- 8333-24 <br><br>Boulevard ROYAL –L-8333 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL à ce jour.<br>En vertu du mandat qui nous a été confié par PAYPAL, dans le cadre d’un recouvrement amiable nous agissons conformément à la loi du 09/07/1991 (art. 32*). Aucun frais ne vous est réclamé à ce stade de la procédure.<br><br>Nature de la créance : compte PAYPAL MONTANT TTC : 42,93 EUR.<br><br>Date de limite de paiement : à réception de ce courrier électronique A défaut de paiement, nous serons contraints de transmettre votre<br><br>dossier à notre service juridique chargé d’engager une procédure contentieuse à votre encontre, et qui pourra éventuellement saisir le<br><br>tribunal afin d’obtenir un titre exécutoire, ce qui ajouterait au principal de la créance les dommages et intérêts légaux, ainsi que ceux demandés au titre de l’Article 353 du Nouveau Code de Procédure Civile.<br>Tout paiement doit être adressé à : CER Recouvrement BP 93762 8333 TOULOUSE Cedex 01 en rappelant la référence CER suivante : 178325559<br><br>Modes de paiement acceptés : -Carte Bancaire et Paypal en cliquant sur le lien ci-dessous:<br><br><a href=\"https://bit.ly/2Q6312g\"><span style=\"color:#0000ff\"><strong>Cliquez içi</strong></span></a><br><br>_____________________<br>Note : il est impossible de répondre à ce message électronique pour raison de sécurité et de confidentialité des informations vous concernant.<br><br>* « sauf s’ils concernent un acte dont l’accomplissement est prescrit par la loi, les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier<br>toute stipulation contraire est réputée non écrite Cependant.<br>le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut demander au juge de l’exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi. »<br>Toute divulgation, distribution ou reproduction, meme partielle, en est strictement interdite.<br>Si vous recevez ce message par erreur, veuillez le notifier a son emetteur par retour, et le detruire ainsi que tous les documents qui y sont attaches.</div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard13.aubert@free.fr",
+                        "address": "gerard13.aubert@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5fI\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LYAAAA=",
+            "createdDateTime": "2020-08-20T05:21:28Z",
+            "lastModifiedDateTime": "2020-08-20T05:21:29Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5fI",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:21:29Z",
+            "sentDateTime": "2020-08-20T05:21:28Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB2692810D15F9E380BFDFDAA8DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "D063470765",
+            "bodyPreview": "A la requête de votre créancier, PAYPAL (Europe) SARL & Cie- 6786-24\r\n\r\nBoulevard ROYAL –L-6786 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAEypAX4O2kJArHqb1aEe42I=",
+            "conversationIndex": "AQHWdrHBTKkBfg7aQkCsepvVoR7jYg==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LYAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=utf-8\"></head><body><div><div><br><br>A la requête de votre créancier, PAYPAL (Europe) SARL &amp; Cie- 6786-24 <br><br>Boulevard ROYAL –L-6786 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL à ce jour.<br>En vertu du mandat qui nous a été confié par PAYPAL, dans le cadre d’un recouvrement amiable nous agissons conformément à la loi du 09/07/1991 (art. 32*). Aucun frais ne vous est réclamé à ce stade de la procédure.<br><br>Nature de la créance : compte PAYPAL MONTANT TTC : 42,93 EUR.<br><br>Date de limite de paiement : à réception de ce courrier électronique A défaut de paiement, nous serons contraints de transmettre votre<br><br>dossier à notre service juridique chargé d’engager une procédure contentieuse à votre encontre, et qui pourra éventuellement saisir le<br><br>tribunal afin d’obtenir un titre exécutoire, ce qui ajouterait au principal de la créance les dommages et intérêts légaux, ainsi que ceux demandés au titre de l’Article 324 du Nouveau Code de Procédure Civile.<br>Tout paiement doit être adressé à : CER Recouvrement BP 30353 6786 TOULOUSE Cedex 01 en rappelant la référence CER suivante : 158234416<br><br>Modes de paiement acceptés : -Carte Bancaire et Paypal en cliquant sur le lien ci-dessous:<br><br><a href=\"https://bit.ly/2Q6312g\"><span style=\"color:#0000ff\"><strong>Cliquez içi</strong></span></a><br><br>_____________________<br>Note : il est impossible de répondre à ce message électronique pour raison de sécurité et de confidentialité des informations vous concernant.<br><br>* « sauf s’ils concernent un acte dont l’accomplissement est prescrit par la loi, les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier<br>toute stipulation contraire est réputée non écrite Cependant.<br>le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut demander au juge de l’exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi. »<br>Toute divulgation, distribution ou reproduction, meme partielle, en est strictement interdite.<br>Si vous recevez ce message par erreur, veuillez le notifier a son emetteur par retour, et le detruire ainsi que tous les documents qui y sont attaches.</div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard.zenoni@gmail.com",
+                        "address": "gerard.zenoni@gmail.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5e1\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LUAAAA=",
+            "createdDateTime": "2020-08-20T05:21:05Z",
+            "lastModifiedDateTime": "2020-08-20T05:21:06Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5e1",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:21:05Z",
+            "sentDateTime": "2020-08-20T05:21:05Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB26929455DC9997BB3A497223DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "D105868019",
+            "bodyPreview": "A la requête de votre créancier, PAYPAL (Europe) SARL & Cie- 8432-24\r\n\r\nBoulevard ROYAL –L-8432 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAJMhYb_pqzZNgvg1VBWiveE=",
+            "conversationIndex": "AQHWdrGzkyFhv6mrNk2C+DVUFaK94Q==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LUAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=utf-8\"></head><body><div><div><br><br>A la requête de votre créancier, PAYPAL (Europe) SARL &amp; Cie- 8432-24 <br><br>Boulevard ROYAL –L-8432 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL à ce jour.<br>En vertu du mandat qui nous a été confié par PAYPAL, dans le cadre d’un recouvrement amiable nous agissons conformément à la loi du 09/07/1991 (art. 32*). Aucun frais ne vous est réclamé à ce stade de la procédure.<br><br>Nature de la créance : compte PAYPAL MONTANT TTC : 42,93 EUR.<br><br>Date de limite de paiement : à réception de ce courrier électronique A défaut de paiement, nous serons contraints de transmettre votre<br><br>dossier à notre service juridique chargé d’engager une procédure contentieuse à votre encontre, et qui pourra éventuellement saisir le<br><br>tribunal afin d’obtenir un titre exécutoire, ce qui ajouterait au principal de la créance les dommages et intérêts légaux, ainsi que ceux demandés au titre de l’Article 512 du Nouveau Code de Procédure Civile.<br>Tout paiement doit être adressé à : CER Recouvrement BP 59740 8432 TOULOUSE Cedex 01 en rappelant la référence CER suivante : 148009864<br><br>Modes de paiement acceptés : -Carte Bancaire et Paypal en cliquant sur le lien ci-dessous:<br><br><a href=\"https://bit.ly/2Q6312g\"><span style=\"color:#0000ff\"><strong>Cliquez içi</strong></span></a><br><br>_____________________<br>Note : il est impossible de répondre à ce message électronique pour raison de sécurité et de confidentialité des informations vous concernant.<br><br>* « sauf s’ils concernent un acte dont l’accomplissement est prescrit par la loi, les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier<br>toute stipulation contraire est réputée non écrite Cependant.<br>le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut demander au juge de l’exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi. »<br>Toute divulgation, distribution ou reproduction, meme partielle, en est strictement interdite.<br>Si vous recevez ce message par erreur, veuillez le notifier a son emetteur par retour, et le detruire ainsi que tous les documents qui y sont attaches.</div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard.woitellier@sfr.fr",
+                        "address": "gerard.woitellier@sfr.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5ei\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LQAAAA=",
+            "createdDateTime": "2020-08-20T05:20:43Z",
+            "lastModifiedDateTime": "2020-08-20T05:20:44Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5ei",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:20:43Z",
+            "sentDateTime": "2020-08-20T05:20:43Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB2692B2B4A7464024CFCD17C1DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "D914372980",
+            "bodyPreview": "A la requête de votre créancier, PAYPAL (Europe) SARL & Cie- 6653-24\r\n\r\nBoulevard ROYAL –L-6653 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAOYLaV5alg1Pn23jR-g9XNE=",
+            "conversationIndex": "AQHWdrGm5gtpXlqWDU+fbeNH+D1c0Q==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LQAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=utf-8\"></head><body><div><div><br><br>A la requête de votre créancier, PAYPAL (Europe) SARL &amp; Cie- 6653-24 <br><br>Boulevard ROYAL –L-6653 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL à ce jour.<br>En vertu du mandat qui nous a été confié par PAYPAL, dans le cadre d’un recouvrement amiable nous agissons conformément à la loi du 09/07/1991 (art. 32*). Aucun frais ne vous est réclamé à ce stade de la procédure.<br><br>Nature de la créance : compte PAYPAL MONTANT TTC : 42,93 EUR.<br><br>Date de limite de paiement : à réception de ce courrier électronique A défaut de paiement, nous serons contraints de transmettre votre<br><br>dossier à notre service juridique chargé d’engager une procédure contentieuse à votre encontre, et qui pourra éventuellement saisir le<br><br>tribunal afin d’obtenir un titre exécutoire, ce qui ajouterait au principal de la créance les dommages et intérêts légaux, ainsi que ceux demandés au titre de l’Article 118 du Nouveau Code de Procédure Civile.<br>Tout paiement doit être adressé à : CER Recouvrement BP 89356 6653 TOULOUSE Cedex 01 en rappelant la référence CER suivante : 187263364<br><br>Modes de paiement acceptés : -Carte Bancaire et Paypal en cliquant sur le lien ci-dessous:<br><br><a href=\"https://bit.ly/2Q6312g\"><span style=\"color:#0000ff\"><strong>Cliquez içi</strong></span></a><br><br>_____________________<br>Note : il est impossible de répondre à ce message électronique pour raison de sécurité et de confidentialité des informations vous concernant.<br><br>* « sauf s’ils concernent un acte dont l’accomplissement est prescrit par la loi, les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier<br>toute stipulation contraire est réputée non écrite Cependant.<br>le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut demander au juge de l’exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi. »<br>Toute divulgation, distribution ou reproduction, meme partielle, en est strictement interdite.<br>Si vous recevez ce message par erreur, veuillez le notifier a son emetteur par retour, et le detruire ainsi que tous les documents qui y sont attaches.</div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard.wendling@free.fr",
+                        "address": "gerard.wendling@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5eP\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2zIAAAA=",
+            "createdDateTime": "2020-08-20T05:20:28Z",
+            "lastModifiedDateTime": "2020-08-20T05:20:30Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5eP",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:20:28Z",
+            "sentDateTime": "2020-08-20T05:20:25Z",
+            "hasAttachments": false,
+            "internetMessageId": "<369f3b40-e405-4d57-9555-eefc772ee79e@SG2APC01HT010.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D143811827",
+            "bodyPreview": "mwinf5c56 rejected your message to the following email addresses:\r\n\r\ngerard.vuilleumier@orange.fr\r\nThe address you sent your message to wasn't found at the destination domain. It might be misspelled or it might not exist. Try to fix the problem by doing o",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAP1_j2OxwJxIkXuiawZSR60=",
+            "conversationIndex": "AQHWdrGa/X6PY7HAnEiRe6JrBlJHralAddSA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2zIAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mwinf5c56 rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:gerard.vuilleumier@orange.fr\">gerard.vuilleumier@orange.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">The address you sent your message to wasn't found at the destination domain. It might be misspelled or it might not exist. Try to fix the problem by doing one or more of the following:</p><ol><li>Send the message again, but before you do, delete and retype the address. If your email program automatically suggests an address to use, don't select it.</li><li>Clear the recipient AutoComplete cache in your email program by following the steps in this article: <a href=\"https://go.microsoft.com/fwlink/?LinkId=389363\">Status code 5.1.1</a>. Then resend the message, but before you do, be sure to delete and retype the address.</li><li>Contact the recipient by some other means (by phone, for example) to confirm you're using the right address. Ask them if they've set up an email forwarding rule that could be forwarding your message to an incorrect address.</li></ol><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mwinf5c56 gave this error:<br>Adresse d au moins un destinataire invalide. Invalid recipient. OFR_416 [416] <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: SG2APC01HT010.mail.protection.outlook.com<br></p><p>gerard.vuilleumier@orange.fr<br>mwinf5c56<br>Remote Server returned '550 5.1.1 Adresse d au moins un destinataire invalide. Invalid recipient. OFR_416 [416]'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=RSQg8XmAZuKer/oQmZYBkvpSQt0RYN4zcLz6pLYMtDwL4UJCCy9p61aM+sWzl9QkHUGID6lgU5BbKdAj4yzSFnp08DyhFsNLE7y4vCEcUP5DxGwjYxNvKb97Z1DDxaRC69O7znEu7rrvH0uwO6IUIZUEGc4BseV3xjSTf9RoYak9p283ehukTuaiF0Sny4kk/6/zzD4YM0sSQZywegGpakwbeakXtnYmBh8ZbrER7zYKoj6ZPByoyz0BpnKtKHFmjMY6ohD/kQI1n0NU0QBnly0zk5iL3tYz9KbnLn6958cPBPlv5x3sgLlqg1erJw5Q94bqCSvMp41/f12YPh88bA==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=hqijhAviLvBY08PjkE3g3kplvEG1X34N0TR6dU7Dsk4=;\r\n b=dhtsWWD/rDVRZNOGunU8hgnv49Q7jzGp6Xi0Y0lKG4ajjoeVC/vawy6gQQNKkrvD8Mi+Q1EcdFoCLVjiLRi4ZOiyzk+XNx1WVlVmczpyovpJQKxR2f1tv3Q/pLJDsGolVdIuLQ3xwlsHKtlGgBTKgdqqXlPw0SZXXm3vw/ztOnbsHVFtD2YHMf9oRK95DMOWgfk3RoG1Q4vkCrNDOIeUUY5jC219WrR3PjJnj24tqlfR5N4+sIxNpRwxO9PdWz56ADid9JZRN1RLcrTI5MswRXUhzaW2Ct5WhHBSHERxv7Kzcxar3r2rhQpIbq6dQ5zQFX5Gm4oGvp7waK5G2Fdtkw==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=hqijhAviLvBY08PjkE3g3kplvEG1X34N0TR6dU7Dsk4=;\r\n b=pulOEx/w9aL6GmjePeuZIX3e8MbntfEEITrLz19gETXsja0qGXpCI9hOx8newvk2ZmTLCA2UcHaUe1OoT5bT/Aikk1maV6yaW00urI0KoeMM7+h0LtIgN7Zzkn4J8oAgyhNpbjOlcCMz5WYErnIpaKQCqJ/aVq/ICFrfH1vUk4w/i+X15YwjEhAoQQnmvrcR3v42hO1LS9NcAMPIbNAEl1nBybabYz+25MCm7Z1WVg86eHpmsNb8Jm3Rxw53ShuN0BKLFq79Q4/zsP1eduDb8L3yUjyhmUYAlXT/FSWnM5D+uJmSFiOEu5ORsDrdNaRmEuMvVoKEK3oVW/stNjgCGA==\r\nReceived: from SG2APC01FT040.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebd::50) by\r\n SG2APC01HT010.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebd::210)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Thu, 20 Aug\r\n 2020 05:20:22 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebd::47) by SG2APC01FT040.mail.protection.outlook.com\r\n (2a01:111:e400:7ebd::243) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Thu, 20 Aug 2020 05:20:22 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:6567239DB1B3675DA42042BAFBDFA382BBB7F01C06729FFF21014373F811F510;UpperCasedChecksum:DF00998AB7E411E31AB1EC4E8970F4DCDB526A973667A7703F09CFBDBA8F1A22;SizeAsReceived:8398;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.025; Thu, 20 Aug 2020\r\n 05:20:22 +0000\r\nMessage-ID: &lt;HK0PR04MB26923345C7BBDEC194E3B450DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;gerard.vuilleumier@orange.fr&gt;\r\nSubject: D143811827\r\nDate: Thu, 20 Aug 2020 07:20:16 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;a59778bc8239a791298f922e000dd430&quot;\r\nX-ClientProxiedBy: LO2P265CA0089.GBRP265.PROD.OUTLOOK.COM\r\n (2603:10a6:600:8::29) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;e5bcec49b1203e20b2c01b792f561801@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P265CA0089.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:8::29) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.25 via Frontend Transport; Thu, 20 Aug 2020 05:20:21 +0000\r\nX-Microsoft-Original-Message-ID: &lt;e5bcec49b1203e20b2c01b792f561801@outlook.com&gt;\r\nX-TMN: [40VvYV7Kh3H8jztqHN+dvMGLk6SnJ6ds]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: a732d465-9f4c-49f3-a068-08d844c8bc94\r\nX-MS-TrafficTypeDiagnostic: SG2APC01HT010:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\ts5mKlJzSHCMgxq1QsdCDiE9nPd/q6sKK3Jwin/ZAPUNnIxp88sNSwsBVNMUrRM32jO0OcG+63XITgLufIkXxajPO+/ooFueZhU2ciNU/rSpkyBGrDJ/w9kXr0xwvegQqrLxJK/jnnnZppTiISZ5m8HbyzEYislR+jYzs54WAsDKWC8+bP51/cUftQE8oQRX70CWIrAr1W0YfZ2fjJMr9uSY16/t6XrKNq0mmJQUTxw31cSOn1wLPme/27gQ74HMo\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\tZ8sFaa47SnNkiLlK7B/a7DjFYyBXt5CKNwDgaliLA9axqXFK3WWVbEk47PCaffY3ssPKCryoKt73irvxd7SIkH9GKNCJ6Th1Rg5n6QoYwxSHbsLyv5pI++AWL8Z+WpIQtNBTbrIQaZB0wHB91NExMQ==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: a732d465-9f4c-49f3-a068-08d844c8bc94\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 20 Aug 2020 05:20:22.2529\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tSG2APC01FT040.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT010\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard.vuilleumier@orange.fr",
+                        "address": "gerard.vuilleumier@orange.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5eI\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LMAAAA=",
+            "createdDateTime": "2020-08-20T05:20:22Z",
+            "lastModifiedDateTime": "2020-08-20T05:20:23Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5eI",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:20:22Z",
+            "sentDateTime": "2020-08-20T05:20:22Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB26923345C7BBDEC194E3B450DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "D143811827",
+            "bodyPreview": "A la requête de votre créancier, PAYPAL (Europe) SARL & Cie- 7738-24\r\n\r\nBoulevard ROYAL –L-7738 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAP1_j2OxwJxIkXuiawZSR60=",
+            "conversationIndex": "AQHWdrGa/X6PY7HAnEiRe6JrBlJHrQ==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LMAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=utf-8\"></head><body><div><div><br><br>A la requête de votre créancier, PAYPAL (Europe) SARL &amp; Cie- 7738-24 <br><br>Boulevard ROYAL –L-7738 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL à ce jour.<br>En vertu du mandat qui nous a été confié par PAYPAL, dans le cadre d’un recouvrement amiable nous agissons conformément à la loi du 09/07/1991 (art. 32*). Aucun frais ne vous est réclamé à ce stade de la procédure.<br><br>Nature de la créance : compte PAYPAL MONTANT TTC : 42,93 EUR.<br><br>Date de limite de paiement : à réception de ce courrier électronique A défaut de paiement, nous serons contraints de transmettre votre<br><br>dossier à notre service juridique chargé d’engager une procédure contentieuse à votre encontre, et qui pourra éventuellement saisir le<br><br>tribunal afin d’obtenir un titre exécutoire, ce qui ajouterait au principal de la créance les dommages et intérêts légaux, ainsi que ceux demandés au titre de l’Article 852 du Nouveau Code de Procédure Civile.<br>Tout paiement doit être adressé à : CER Recouvrement BP 47476 7738 TOULOUSE Cedex 01 en rappelant la référence CER suivante : 160689979<br><br>Modes de paiement acceptés : -Carte Bancaire et Paypal en cliquant sur le lien ci-dessous:<br><br><a href=\"https://bit.ly/2Q6312g\"><span style=\"color:#0000ff\"><strong>Cliquez içi</strong></span></a><br><br>_____________________<br>Note : il est impossible de répondre à ce message électronique pour raison de sécurité et de confidentialité des informations vous concernant.<br><br>* « sauf s’ils concernent un acte dont l’accomplissement est prescrit par la loi, les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier<br>toute stipulation contraire est réputée non écrite Cependant.<br>le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut demander au juge de l’exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi. »<br>Toute divulgation, distribution ou reproduction, meme partielle, en est strictement interdite.<br>Si vous recevez ce message par erreur, veuillez le notifier a son emetteur par retour, et le detruire ainsi que tous les documents qui y sont attaches.</div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard.vuilleumier@orange.fr",
+                        "address": "gerard.vuilleumier@orange.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5d1\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LIAAAA=",
+            "createdDateTime": "2020-08-20T05:20:00Z",
+            "lastModifiedDateTime": "2020-08-20T05:20:03Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAOf5d1",
+            "categories": [],
+            "receivedDateTime": "2020-08-20T05:20:01Z",
+            "sentDateTime": "2020-08-20T05:20:00Z",
+            "hasAttachments": false,
+            "internetMessageId": "<HK0PR04MB2692E3333695FB06A7185683DC5A0@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "D961630209",
+            "bodyPreview": "A la requête de votre créancier, PAYPAL (Europe) SARL & Cie- 2576-24\r\n\r\nBoulevard ROYAL –L-2576 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAD6QHtghzbVJr7wsAiR-EqQ=",
+            "conversationIndex": "AQHWdrGNPpAe2CHNtUmvvCwCJH8SpA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAAA6C2LIAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=utf-8\"></head><body><div><div><br><br>A la requête de votre créancier, PAYPAL (Europe) SARL &amp; Cie- 2576-24 <br><br>Boulevard ROYAL –L-2576 LUXEMBOURG , dont la CER Recouvrement est le mandataire, vous êtes redevable de la somme de 42,93 EUR qui représente l’état débiteur de votre compte PAYPAL à ce jour.<br>En vertu du mandat qui nous a été confié par PAYPAL, dans le cadre d’un recouvrement amiable nous agissons conformément à la loi du 09/07/1991 (art. 32*). Aucun frais ne vous est réclamé à ce stade de la procédure.<br><br>Nature de la créance : compte PAYPAL MONTANT TTC : 42,93 EUR.<br><br>Date de limite de paiement : à réception de ce courrier électronique A défaut de paiement, nous serons contraints de transmettre votre<br><br>dossier à notre service juridique chargé d’engager une procédure contentieuse à votre encontre, et qui pourra éventuellement saisir le<br><br>tribunal afin d’obtenir un titre exécutoire, ce qui ajouterait au principal de la créance les dommages et intérêts légaux, ainsi que ceux demandés au titre de l’Article 621 du Nouveau Code de Procédure Civile.<br>Tout paiement doit être adressé à : CER Recouvrement BP 57123 2576 TOULOUSE Cedex 01 en rappelant la référence CER suivante : 124658540<br><br>Modes de paiement acceptés : -Carte Bancaire et Paypal en cliquant sur le lien ci-dessous:<br><br><a href=\"https://bit.ly/2Q6312g\"><span style=\"color:#0000ff\"><strong>Cliquez içi</strong></span></a><br><br>_____________________<br>Note : il est impossible de répondre à ce message électronique pour raison de sécurité et de confidentialité des informations vous concernant.<br><br>* « sauf s’ils concernent un acte dont l’accomplissement est prescrit par la loi, les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier<br>toute stipulation contraire est réputée non écrite Cependant.<br>le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut demander au juge de l’exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi. »<br>Toute divulgation, distribution ou reproduction, meme partielle, en est strictement interdite.<br>Si vous recevez ce message par erreur, veuillez le notifier a son emetteur par retour, et le detruire ainsi que tous les documents qui y sont attaches.</div></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "gerard.vizier@orange.fr",
+                        "address": "gerard.vizier@orange.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        }
+    ]
+}
