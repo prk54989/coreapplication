@@ -1,0 +1,64 @@
+plugins {
+	id 'org.springframework.boot' version '2.3.2.RELEASE'
+	id 'io.spring.dependency-management' version '1.0.9.RELEASE'
+	id 'java'
+    id 'application'
+}
+
+group = 'com.ingestion.mail.platform'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+repositories {
+	mavenCentral()
+	    jcenter()
+	jcenter{
+        url 'http://oss.jfrog.org/artifactory/oss-snapshot-local'
+	}
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	testImplementation('org.springframework.boot:spring-boot-starter-test') {
+		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+	}
+	    // This dependency is used by the application.
+    implementation 'com.google.guava:guava:28.2-jre'
+
+    // Use JUnit test framework
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.microsoft.azure:msal4j:1.4.0'
+    implementation 'com.microsoft.graph:microsoft-graph:1.6.0'
+    implementation 'org.slf4j:slf4j-nop:1.8.0-beta4'
+	compile('com.microsoft.graph:microsoft-graph-auth:0.2.0-SNAPSHOT')
+	
+	// https://mvnrepository.com/artifact/com.hendraanggrian.buildconfig/buildconfig-gradle-plugin
+compile group: 'com.hendraanggrian.buildconfig', name: 'buildconfig-gradle-plugin', version: '0.1'
+	
+	// https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools
+compile group: 'org.springframework.boot', name: 'spring-boot-devtools', version: '2.3.3.RELEASE'
+	// https://mvnrepository.com/artifact/com.microsoft.azure/msal4j
+compile group: 'com.microsoft.azure', name: 'msal4j', version: '1.6.2'
+// https://mvnrepository.com/artifact/com.nimbusds/oauth2-oidc-sdk
+runtime group: 'com.nimbusds', name: 'oauth2-oidc-sdk', version: '8.19'
+
+// https://mvnrepository.com/artifact/org.json/json
+compile group: 'org.json', name: 'json', version: '20200518'
+
+
+	
+    
+}
+
+//test {
+	//useJUnitPlatform()
+//}
+application {
+    mainClassName = 'graphtutorial.GraphtutorialApplication'
+}
+
+// <StandardInputSnippet>
+run {
+    standardInput = System.in
+}
