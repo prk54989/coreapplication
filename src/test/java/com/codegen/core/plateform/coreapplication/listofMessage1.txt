@@ -1,0 +1,546 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('pr330516%40outlook.com')/messages",
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/messages?$skip=10",
+    "value": [
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWbS\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMFWIAAAA=",
+            "createdDateTime": "2020-08-25T15:39:10Z",
+            "lastModifiedDateTime": "2020-08-25T15:39:11Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWbS",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T15:39:10Z",
+            "sentDateTime": "2020-08-25T15:39:06Z",
+            "hasAttachments": true,
+            "internetMessageId": "<HK0PR04MB26928D8990CC9086C42517A4DC570@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "History : US Bank Plaza in downtown St. Louis, Missouri",
+            "bodyPreview": "History\r\n\r\nOne US Bank Plaza in downtown St. Louis, Missouri\r\n\r\nThe US Bank tower in downtown Denver, Colorado\r\n\r\nUS Bank tower in Salt Lake City, Utah\r\n\r\nUS Bank Center in Milwaukee, Wisconsin\r\n\r\nUS Bank Building in Sheboygan, Wisconsin\r\n\r\nU.S. Bancorp f",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAGL0UldGckZCqMMXl_MLgSg=",
+            "conversationIndex": "AQHWevVSYvRSV0ZyRkKowxeX4wuBKA==",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEMAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMFWIAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=Windows-1252\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">History <div><br></div><div>One US Bank Plaza in downtown St. Louis, Missouri</div><div><br></div><div>The US Bank tower in downtown Denver, Colorado</div><div><br></div><div>US Bank tower in Salt Lake City, Utah</div><div><br></div><div>US Bank Center in Milwaukee, Wisconsin</div><div><br></div><div>US Bank Building in Sheboygan, Wisconsin</div><div><br></div><div>U.S. Bancorp footprint</div><div><br></div><div>United States National Bank of Portland, Oregon</div><div><br></div><div>Downtown Minneapolis; U.S. Bancorp Center is the second unobstructed tower from the left.</div><div><br></div><div>US Bank in Hudson, Ohio</div><div><br></div><div>The US Bank Tower in downtown Los Angeles, California</div><div>The U.S. Bank name first appeared as United States National Bank of Portland, established in Portland, Oregon, in 1891.[7] It changed its name to the United States National Bank of Oregon in 1964.[7] In 1902, it merged with Ainsworth National Bank of Portland, but kept the U.S. National Bank name.[7]</div><div><br></div><div>The central part of the franchise dates from 1864, with the formation of First National Bank of Minneapolis.[7] In 1929, that bank merged with First National Bank of St. Paul (also formed in 1864) and several smaller Upper Midwest banks to form the First Bank Stock Corporation, which changed its name to First Bank System in 1968.[7]</div><div><br></div><div>In the eastern part of the franchise, Farmers and Millers Bank in Milwaukee opened its doors in 1853, growing into the First National Bank of Milwaukee and eventually becoming First Wisconsin and ultimately Firstar Corporation.[7] In Cincinnati, First National Bank of Cincinnati opened for business in 1863 under National Charter #24—the charter that U.S. Bancorp still operates under today, and one of the oldest active national bank charters in the nation.[7] Despite having started up in the midst of the Civil War, First National Bank of Cincinnati went on to survive many decades to grow into Star Bank.[7]</div><div><br></div><div>U.S. Bancorp of Oregon era</div><div>U.S. Bancorp of Oregon officially became a banking holding company for the U.S. National Bank of Oregon in January 1969[8] after receiving authorization from its bank directors on September 9, 1968[9] and subsequently receiving legal approval to proceed from the Comptroller of the Currency on November 28, 1968.[10] LeRoy B. Staver, president, and chief executive officer of the bank, was quickly appointed chairman and chief executive officer for the new holding company while Robert B. Wilson was appointed president of the holding company and also executive vice president for the bank.[11] Wilson later resign as president in December 1972[12] and his position was filled eight months later by John A. Elorriaga.[13]</div><div><br></div><div>After a long period of service, Staver finally retired in October 1974 and was succeeded by John Elorriaga who was promoted to chairman and chief executive officer while Carl W. Mays Jr was named president in Elorriaga's place.[14]</div><div><br></div><div>A major change in the organization of leadership in the U.S. Bancorp of Oregon occurred in August 1983. Although Elorriaga remained as chairman and chief executive officer for the firm, Mays was appointed to the new position of executive assistant to the chairman while Edmund P. Jensen was appointed president as a replacement to Mays, and Roger L. Breezley was appointed to the new post of chief operating officer.[15]</div><div><br></div><div>In December 1986, U.S. Bancorp of Oregon announced the pending acquisition of the Forest Grove, Oregon-based Valley National Corporation (not to be confused with the Phoenix, Arizona, company of the same name) with its five-branch Valley National Bank of Forest Grove subsidiary for $13.7 million in stock.[16]</div><div><br></div><div>U.S. Bancorp of Oregon made its first acquisition outside the state of Oregon by announcing in December 1986 the pending acquisition of the Spokane, Washington-based Old National Bancorp with its Old National Bank of Washington and First National Bank of Spokane subsidiaries for $174 million.[17][18] The acquisition was completed in July 1987 on the first day that the state of Washington had allowed bank acquisitions by out-of-state companies.[19]</div><div><br></div>In December 1986, U.S. Bancorp of Oregon announced the pending acquisition of the Camas, Washington-based Heritage Bank for $2.8 million.[20][21]<br></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Praveen Kumar",
+                        "address": "pr330516@outlook.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWbM\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMElAAAAA=",
+            "createdDateTime": "2020-08-25T15:35:11Z",
+            "lastModifiedDateTime": "2020-08-25T15:39:08Z",
+            "changeKey": "CQAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWbM",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T15:39:06Z",
+            "sentDateTime": "2020-08-25T15:39:06Z",
+            "hasAttachments": true,
+            "internetMessageId": "<HK0PR04MB26928D8990CC9086C42517A4DC570@HK0PR04MB2692.apcprd04.prod.outlook.com>",
+            "subject": "History : US Bank Plaza in downtown St. Louis, Missouri",
+            "bodyPreview": "History\r\n\r\nOne US Bank Plaza in downtown St. Louis, Missouri\r\n\r\nThe US Bank tower in downtown Denver, Colorado\r\n\r\nUS Bank tower in Salt Lake City, Utah\r\n\r\nUS Bank Center in Milwaukee, Wisconsin\r\n\r\nUS Bank Building in Sheboygan, Wisconsin\r\n\r\nU.S. Bancorp f",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAGL0UldGckZCqMMXl_MLgSg=",
+            "conversationIndex": "AQHWevVSYvRSV0ZyRkKowxeX4wuBKA==",
+            "isDeliveryReceiptRequested": false,
+            "isReadReceiptRequested": false,
+            "isRead": true,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEJAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMElAAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=Windows-1252\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">History <div><br></div><div>One US Bank Plaza in downtown St. Louis, Missouri</div><div><br></div><div>The US Bank tower in downtown Denver, Colorado</div><div><br></div><div>US Bank tower in Salt Lake City, Utah</div><div><br></div><div>US Bank Center in Milwaukee, Wisconsin</div><div><br></div><div>US Bank Building in Sheboygan, Wisconsin</div><div><br></div><div>U.S. Bancorp footprint</div><div><br></div><div>United States National Bank of Portland, Oregon</div><div><br></div><div>Downtown Minneapolis; U.S. Bancorp Center is the second unobstructed tower from the left.</div><div><br></div><div>US Bank in Hudson, Ohio</div><div><br></div><div>The US Bank Tower in downtown Los Angeles, California</div><div>The U.S. Bank name first appeared as United States National Bank of Portland, established in Portland, Oregon, in 1891.[7] It changed its name to the United States National Bank of Oregon in 1964.[7] In 1902, it merged with Ainsworth National Bank of Portland, but kept the U.S. National Bank name.[7]</div><div><br></div><div>The central part of the franchise dates from 1864, with the formation of First National Bank of Minneapolis.[7] In 1929, that bank merged with First National Bank of St. Paul (also formed in 1864) and several smaller Upper Midwest banks to form the First Bank Stock Corporation, which changed its name to First Bank System in 1968.[7]</div><div><br></div><div>In the eastern part of the franchise, Farmers and Millers Bank in Milwaukee opened its doors in 1853, growing into the First National Bank of Milwaukee and eventually becoming First Wisconsin and ultimately Firstar Corporation.[7] In Cincinnati, First National Bank of Cincinnati opened for business in 1863 under National Charter #24—the charter that U.S. Bancorp still operates under today, and one of the oldest active national bank charters in the nation.[7] Despite having started up in the midst of the Civil War, First National Bank of Cincinnati went on to survive many decades to grow into Star Bank.[7]</div><div><br></div><div>U.S. Bancorp of Oregon era</div><div>U.S. Bancorp of Oregon officially became a banking holding company for the U.S. National Bank of Oregon in January 1969[8] after receiving authorization from its bank directors on September 9, 1968[9] and subsequently receiving legal approval to proceed from the Comptroller of the Currency on November 28, 1968.[10] LeRoy B. Staver, president, and chief executive officer of the bank, was quickly appointed chairman and chief executive officer for the new holding company while Robert B. Wilson was appointed president of the holding company and also executive vice president for the bank.[11] Wilson later resign as president in December 1972[12] and his position was filled eight months later by John A. Elorriaga.[13]</div><div><br></div><div>After a long period of service, Staver finally retired in October 1974 and was succeeded by John Elorriaga who was promoted to chairman and chief executive officer while Carl W. Mays Jr was named president in Elorriaga's place.[14]</div><div><br></div><div>A major change in the organization of leadership in the U.S. Bancorp of Oregon occurred in August 1983. Although Elorriaga remained as chairman and chief executive officer for the firm, Mays was appointed to the new position of executive assistant to the chairman while Edmund P. Jensen was appointed president as a replacement to Mays, and Roger L. Breezley was appointed to the new post of chief operating officer.[15]</div><div><br></div><div>In December 1986, U.S. Bancorp of Oregon announced the pending acquisition of the Forest Grove, Oregon-based Valley National Corporation (not to be confused with the Phoenix, Arizona, company of the same name) with its five-branch Valley National Bank of Forest Grove subsidiary for $13.7 million in stock.[16]</div><div><br></div><div>U.S. Bancorp of Oregon made its first acquisition outside the state of Oregon by announcing in December 1986 the pending acquisition of the Spokane, Washington-based Old National Bancorp with its Old National Bank of Washington and First National Bank of Spokane subsidiaries for $174 million.[17][18] The acquisition was completed in July 1987 on the first day that the state of Washington had allowed bank acquisitions by out-of-state companies.[19]</div><div><br></div>In December 1986, U.S. Bancorp of Oregon announced the pending acquisition of the Camas, Washington-based Heritage Bank for $2.8 million.[20][21]<br></div></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Praveen Kumar",
+                    "address": "pr330516@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "Praveen Kumar",
+                        "address": "pr330516@outlook.com"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQe\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz60AAAA=",
+            "createdDateTime": "2020-08-25T15:32:36Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQe",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T15:32:36Z",
+            "sentDateTime": "2020-08-25T15:32:32Z",
+            "hasAttachments": false,
+            "internetMessageId": "<b4e1ae23-257c-4e2b-a8c1-d898edd1546a@SG2APC01HT230.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D736217689",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\nt.touati@aliceadsl.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a ",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAEKQRrhUB1hBlNatNsFpt8I=",
+            "conversationIndex": "AQHWet+BQpBGuFQHWEGU1q02wWm3wqlI9CYA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz60AAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:t.touati@aliceadsl.fr\">t.touati@aliceadsl.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.253.22), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: SG2APC01HT230.mail.protection.outlook.com<br>Total retry attempts: 4</p><p>t.touati@aliceadsl.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.253.22), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=PP0IyDL1CMVTRsXoD/D0ikXLyb2lD02tR+tPZFETe/omahCcEzqjy2mVlFr5fzClx1LDVp+FZGi3SaX/1LPG2laksfV9KVM7FHDDiiMKZxu5ohQnZ09XXw9zmZlR6ZgoFg19y7LmSr5aceIDoCf7lHG0k/nGmNxvvPEj7ku2h4nF0fq2V78GwJyhsMAZE453kX5mapIz6qXLBpAhS2XFQFahoCKnSCpXLhlZ04lQPmRydj0jlclY1RcnHVisEIv1ufQ/m2FpBnjL0st8k8ltRTUQ6Sjqt8C8+MSHghKgRaGZWRkfyI+Se+2sZQpgFr3PypBtCq6pHHO5/vxMg1Bb4Q==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=mhBunVCUz5IRZasyf0i8uc9yw75L1XkvIiryYhcEoGI=;\r\n b=U9pEinOYxUFT+DyoGKBgxRIxgNQAt+w0QEA6BUty1PKwRHILqwLXIG8olCq9v/mgdH8IgkG5JM5K9pEkDMINXeZtTnD+24/9beBTC0o06CFSyu3e/Vp1TArwA6AgQzoOXG+vWNbT2ar2dafKNNqTSwJzaVwBGNHllqmn0dWo4BF3wAnt90cxEVAFzhIJxK3xs04DsQ8VIPB3w2ID8mefjI+S63mJrmi9w4VKy6k/mDZo0tAEgsMps28ODJbcZdHxGlNwNv9OQwJkCfwkcnbXNPKnv2zVcssks1YSBlP0+r3egqrwh1VvEQERBdxIgq0g+93WHm1xBaLpg38ep63E2Q==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=mhBunVCUz5IRZasyf0i8uc9yw75L1XkvIiryYhcEoGI=;\r\n b=hSp5QpP+unPxFbzn/re+u1U3ByGKLqDnRKCylQ6QT2Hs1CVshDYSlrJZxZOuB/91N5UsJfliVkXwo6cm8KUcAiZmTdGO5Nj8Ymjf9hQRgytaHi1eSUzsWvVyp4Ej4RgIsN8rKMuqziLsfAjJx52rr2UFt4i1CpT/TmMiwdhAwi6zH8U11SKBdzvsaGH0Rr3oeLycZoFSQftnQnQ3hwIIXaAxro5kmKRbSm/Tqx6ds2lvp5/wWU3TpHKfxzuFh+ggIOIRLBxu8MU0e+WMJWx/5UMGwiHzUWaJsuWnqopSAPEN0ACPKM8AfE+Jx9qMIt9/9BafG1g82yvyAGKdA/+bSg==\r\nReceived: from SG2APC01FT117.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebd::46) by\r\n SG2APC01HT230.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebd::328)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 12:59:02 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebd::47) by SG2APC01FT117.mail.protection.outlook.com\r\n (2a01:111:e400:7ebd::221) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 12:59:02 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:B376D9A5BCD1E2228B989B35E14E37C45F8035CA8245FDE512A5456C4D4CA8B8;UpperCasedChecksum:4EC6A7F7BED8DEEA2753825E5950CED8E1A3B71D8890B4475011487B26A6E933;SizeAsReceived:8395;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 12:59:02 +0000\r\nMessage-ID: &lt;HK0PR04MB2692261D7E5DD901DDFC02A3DC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;t.touati@aliceadsl.fr&gt;\r\nSubject: D736217689\r\nDate: Tue, 25 Aug 2020 14:58:57 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;4d86e85dfc4905ab0a48d2ed000b98c0&quot;\r\nX-ClientProxiedBy: LO2P265CA0248.GBRP265.PROD.OUTLOOK.COM\r\n (2603:10a6:600:8a::20) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;fbdd278b2e83f88f67617f3124afdc61@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P265CA0248.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:8a::20) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3326.19 via Frontend Transport; Tue, 25 Aug 2020 12:59:01 +0000\r\nX-Microsoft-Original-Message-ID: &lt;fbdd278b2e83f88f67617f3124afdc61@outlook.com&gt;\r\nX-TMN: [L91Fh9XGHfeLLzLdXjMX5xJLEzXX8oXa]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: 787e4f9a-44f7-42ec-62aa-08d848f6a420\r\nX-MS-TrafficTypeDiagnostic: SG2APC01HT230:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\tsCuuc/+3j2sKxin+FPoIxuw5xhHQZQ2DtnR6cs4rXs14eaq2QVdM2WjUoL2qfT6WB1wD20SYGPDRAVKS1VWT/7O+0ysu5eo80+ldy//Ud436crGKJrX++AsWzkVCjykI5OJ6FEvis1MoJv/+LyHjqn2Mqxh9iljRcI+xZOCsLnEbHryD0OlysZ4jODWDL+GRXPem2TG6gJ4Ei11NCn1a/vc0jQiuNWPn0WISnXFnuBx8jGpQ73xx7LsVV1yJ2u7+\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\tkNUI0TVXYyg8nhqpMaL7VgZWZ60HzWZjhm5xW68OLRu+1AbaSQzqRDA9wWwg2LcZiDUMy3dxBX7bTicn6uGNc/4dFV/S2C0kTKEw4qOfJHmKKhalxa1Fc9zjJiY1i+jbnSfjjFcSWAYX/ow2EDm0AQ==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: 787e4f9a-44f7-42ec-62aa-08d848f6a420\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 12:59:02.7614\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tSG2APC01FT117.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT230\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "t.touati@aliceadsl.fr",
+                        "address": "t.touati@aliceadsl.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQh\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz64AAAA=",
+            "createdDateTime": "2020-08-25T15:06:23Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQh",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T15:06:24Z",
+            "sentDateTime": "2020-08-25T15:06:20Z",
+            "hasAttachments": false,
+            "internetMessageId": "<d531a745-a351-4629-b81b-8517288f7832@HK2APC01HT014.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D647775038",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\nt.berdah@free.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a probl",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAE1h7aZP2G1Oh3KyDz1Scu8=",
+            "conversationIndex": "AQHWetvzTWHtpk/YbU6HcrIPPVJy76lI7NsA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz64AAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:t.berdah@free.fr\">t.berdah@free.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.24), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: HK2APC01HT014.mail.protection.outlook.com<br>Total retry attempts: 4</p><p>t.berdah@free.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.24), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=mlxhQHxvT6yr1ZDi6Fyn5ff++3k19pm919RGZblb+3c3wsRjlCNwqwI7u/VbUkCfv4gN5z4k93UUGWSB9A/A7F1lQYV05ddBH9p7Kg5tyHuNBRJosUC6djE2cAWgID9Y95vJKg2I0l8ff+A5dV9LaLUuUMFs785DNFRawARUiqwXVW/1j44aeIMXDc2Shkc/kBHas2pNl0eHWl82wujxCpcukNPq4UedqA2Vddg8jaahh2yoSAB9eQS7PedVG91l8eYdcCHoY2DWk4SiD1KJnGXgUcH3F3EDlShk/5G5X6siarlasBaTRGk8mDAc0rrTrQ0ZRBodpw3ZhKtHH8hv9A==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=P2nWfN12zziqhsmca+fQHt10rJYOghXkyPxbd93DZbs=;\r\n b=Uas42anWkWDnW4V68eCjCzIc32P6u+jktq7hOjg7XKIqpVom2B7M4mJK+qEQvfBPnlUgy0qQcD+UQHAWs0tPh2Kkcp5BN39RuIw609coapXX07inC+6AMjl+cu2dtJuh7JwEDr+sBMjvU+0jx7bUXi9MiXktNEnm9v5TmoNFA6lp3Cbgn2D0ls0Mmh1CqpdTgzkRHkYO88RTEoC7atfAw2r3e6xixF93J2iPgg94l+EvmnFq9Yqu1mVt5q4oI8tnoMCgAFk0wPexfkBDaj+/m4qOpWJ57D3eDpa+B7lLyb8rn3XSbWl/iRlOAd12tIsWvCxumzB9Ge5vufQhfd6SUQ==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=P2nWfN12zziqhsmca+fQHt10rJYOghXkyPxbd93DZbs=;\r\n b=Dx3Qh+CMMJtxFalan6eKua2AVt8VmZHgrUddXLiNqdWsA1JOAFILj6ZenFhjK13jKiK632TtmJqNKhS3+5PBgLojNhH55ZUbgmR2mpfa+ncdSP41VEskRLCw+cL8CEEUGwq9DnEWDhJTdxWZh2R2Rduqa5PPCqp7Mz7kSus5ssOH+XDyJR0/EYxZa/+Xgobo38A906zKTn26Rbw26KeqF+yBdkPxttZgMPB9wG9tkJHwdldCOG5EB4+G1MzfUD8JZma5105eWndtGSJQDL/ywfR82VJUMWJ2h7k4vokR4GBvOKOC+1HFQwipEREz9GjEpATM9vkC7pMNeAwsJTAFPA==\r\nReceived: from HK2APC01FT064.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebc::49) by\r\n HK2APC01HT014.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebc::159)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 12:33:35 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebc::43) by HK2APC01FT064.mail.protection.outlook.com\r\n (2a01:111:e400:7ebc::364) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 12:33:35 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:70BA77D9746FBE9478E7CBB94B35C6F35E1C4FB03BF689D855BC4BF8292356D3;UpperCasedChecksum:FE2B0D2624F2A95CB63AAEB37FBDA4098B5274A7201CE4F0511D2A658CD4EC99;SizeAsReceived:8377;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 12:33:35 +0000\r\nMessage-ID: &lt;HK0PR04MB2692D7AAAD7AB901A01D3780DC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;t.berdah@free.fr&gt;\r\nSubject: D647775038\r\nDate: Tue, 25 Aug 2020 14:33:28 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;2c5e7ef066e943347a3ab8120000aec0&quot;\r\nX-ClientProxiedBy: LO2P123CA0052.GBRP123.PROD.OUTLOOK.COM\r\n (2603:10a6:600:1::16) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;e65e74c1c4b635ad6b6e69b03a36fb1e@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P123CA0052.GBRP123.PROD.OUTLOOK.COM (2603:10a6:600:1::16) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3326.19 via Frontend Transport; Tue, 25 Aug 2020 12:33:34 +0000\r\nX-Microsoft-Original-Message-ID: &lt;e65e74c1c4b635ad6b6e69b03a36fb1e@outlook.com&gt;\r\nX-TMN: [gnCXvstIow0+4PVMMdmXIvMS7PCFlFy3]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: 2082511a-a4f3-4612-e504-08d848f315fd\r\nX-MS-TrafficTypeDiagnostic: HK2APC01HT014:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\ta6KSjES8p2IzGWoxVlcPMpOjVINQ2ThkOGgyCJSjwUgxn92fkV9xDEtj7eGr7DOOBkgu29OxZABw+43mk9mu/dVFx4MKJ0shSmAZ8RpmM/j/UgTmtfKLQoNU8OaVHB8/8ZXfURrwkDamzCWBnsj5l2t8KKOijyuUJlLTGTRz6Lzl0qyfKKtqga1BhMzEyhIOROWckA3WvpVpRSqxYEU7Wg/pKEH2Y86djdtGpvhBHOcnhOrCxr8lXe0KaW9EyiMy\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\t/Hq7GbZxL7UrI2ZOa0r7tlX0nba6G/LAuXD89oMOgGFt7QvkybuoIrBgw+qOKHMZnAXIWq7q9L6r+otSzqkLV8ufJ4aE0JNwSCqncrWP1TSM8TGSD5qyz3gW1EIOShsZ253D615+6cRZ7Ar2/MMgzg==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: 2082511a-a4f3-4612-e504-08d848f315fd\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 12:33:35.8007\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tHK2APC01FT064.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: HK2APC01HT014\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "t.berdah@free.fr",
+                        "address": "t.berdah@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQk\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz68AAAA=",
+            "createdDateTime": "2020-08-25T14:30:27Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQk",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T14:30:27Z",
+            "sentDateTime": "2020-08-25T14:30:23Z",
+            "hasAttachments": false,
+            "internetMessageId": "<162c3680-6d37-47a0-88da-52fe642b4f35@SG2APC01HT018.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D041804977",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\nt.scibetta@free.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a pro",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQABU24HP7RWROjOkA10iFE8M=",
+            "conversationIndex": "AQHWet9IFTbgc/tFZE6M6QDXSIUTw6lI4smA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz68AAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:t.scibetta@free.fr\">t.scibetta@free.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.35), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: SG2APC01HT018.mail.protection.outlook.com<br>Total retry attempts: 3</p><p>t.scibetta@free.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.35), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=BqA3jvDfuu9M3ivkdgFTawm0nFfjmiLU89uSwKV/unYqRpF1ktvrIOUYbDBVZ0DNHv98wyPnHa2lXev5phy6lr/91ZdauiC7buRa4jp3TGBedQoQjqTiIWh5gWYtPzKWZsM8tZGjDkPS/2ALJw6gP0hTinmkzmPN9+VJvtBhhAySMgdq3IIbdr3FqHhqK2RSOnZrC6ij0Cd+hBFbuQwD8mVVup0cpVjSPHJDeDM0lRsc9WHnTgA5/156QswQNz9Q8Hu1daTFbVjpHDe/qqGEQABYFEqIxsq7z3BuDtXi+r4kNpjELB6NL0NiohG3+GEOtk7rWRZMB3s19iaAfVw9lA==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=O4Jy7JtqhrVB+T+ZRegFxat26cymaqGm3KyurI59uTg=;\r\n b=Frguz7a9DLtcxIktcdwYjJIyH5GMJHIdv6istieZpUCmfWOfz+FsoWHvUSIIGtbsP4e4NbYOnHDX0gISgeOOm+ebO1vRiW+aeO2KAtTLJ9U5pJdF69mOSH+uzhPCguYU5OrbH6BbXgi+dj6HucJtCmL9propAL0nRZ3S4pDFOSib+32JD4cIELUS9MaUKfr7mdhUN08drbGnYsmvdpDiWhxwIw/X6X/n0q2WXI7cmWe7acg4uAsG2vA+7q3LSMJmJEaxbJGLq8GHrMcf42iDSnCV/OwizKbSLxpIj8CizcrElOx+3jtdVgDpxSaOEwsMlpQnXYJn6hayfhOXKJPbVw==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=O4Jy7JtqhrVB+T+ZRegFxat26cymaqGm3KyurI59uTg=;\r\n b=ne2gUfJOWHzuvz92ZjfmAdcKMVv6Ca5inUk5CPaI8Ta4IvN87xa4ttbS8iEZ7NJSGUAorl1R1jRAs6ldiNIaKtX86Hghz3fZ+8YaPxzMgCPCslHzimaZfypwpcRm5RACtArpqXjTzROl6JKpOACPHCcWBtUMCnWVl/BOq1WZ5AxVg51y4xAhXf5xkniszlwwci/mvaPCGmKNA3l4NvipKK2TDY0vc0vpaG0FkOKV7FkLXpJGTntEHcGIXAeh+2KQRVeiopVoQceO6SlVs1Qha8VgUuLQ4B7SoeOXGgY1KmOoIVq53tuLguEMeqymfI33F61SECGYYLGdRCvDeyyEGg==\r\nReceived: from SG2APC01FT117.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebd::46) by\r\n SG2APC01HT018.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebd::247)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 12:57:26 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebd::47) by SG2APC01FT117.mail.protection.outlook.com\r\n (2a01:111:e400:7ebd::221) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 12:57:26 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:506ABB0CAF114983390F90D6F9628DCAEFB923F544C22C532EF8EB0EB63F98F8;UpperCasedChecksum:04695F7EB9433A14CD86569B3A24EF80E8E63308D7601671F6CBF09C44DD5B8F;SizeAsReceived:8388;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 12:57:26 +0000\r\nMessage-ID: &lt;HK0PR04MB26921038EB49896DF7F8FACCDC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;t.scibetta@free.fr&gt;\r\nSubject: D041804977\r\nDate: Tue, 25 Aug 2020 14:57:20 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;ec6cd74c5dd03ca805329a45000af530&quot;\r\nX-ClientProxiedBy: LO2P123CA0055.GBRP123.PROD.OUTLOOK.COM\r\n (2603:10a6:600:1::19) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;3b74052663ef9def376344b2220e41ad@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P123CA0055.GBRP123.PROD.OUTLOOK.COM (2603:10a6:600:1::19) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3326.19 via Frontend Transport; Tue, 25 Aug 2020 12:57:25 +0000\r\nX-Microsoft-Original-Message-ID: &lt;3b74052663ef9def376344b2220e41ad@outlook.com&gt;\r\nX-TMN: [ce1X7EMyZ9BnaoVthATC/GY/UNODXZ2g]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: 20d86bda-7d04-4349-6ffc-08d848f66aa5\r\nX-MS-TrafficTypeDiagnostic: SG2APC01HT018:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\tEbnwfJrHNOUhyFE/HcgkE5h4gFQV0eBl+ypnd0/27KJBsDmAz+o2eNuUj70hxdUsuE89dbrLtBNFXgzhnMJR8Te5ke0zy4NMoMbLowoPsLLxWtl29s107qJTv0ZAUpPdZNniJJ6lXFzggIEIjpv/zA3YSovKSHGwbB2zj++xceSdthAYNXnJgCBcfJWpOEEypop2CXTjuIfLCYE50CDeqdCPaxBSfoinm08Z8IDE2yNgK+H40IpqfM8hbFYOwzms\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\txCKq6bWa4taMIna4LCIk4t0TL/GqOq1Qrnsp4fh22AsBSLsKKVWtyxRvNPNpZ31nzvGzu3o/eR0sIr2bEhTIltT9ilsioIYqDnyuA2dFZXpOd+5WMSPyHQ/tz4yUd5C+CDNS/5JLXG/1R50MtstIbg==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: 20d86bda-7d04-4349-6ffc-08d848f66aa5\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 12:57:26.3165\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tSG2APC01FT117.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT018\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "t.scibetta@free.fr",
+                        "address": "t.scibetta@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQn\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7AAAAA=",
+            "createdDateTime": "2020-08-25T14:19:12Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQn",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T14:19:12Z",
+            "sentDateTime": "2020-08-25T14:19:08Z",
+            "hasAttachments": false,
+            "internetMessageId": "<50129b25-f742-4b94-9b3a-26c937824122@SG2APC01HT020.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D091038062",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\nt.holzinger@free.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a pr",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAJJd74AWYudJpTbV-ssfKlo=",
+            "conversationIndex": "AQHWet2Ikl3vgBZi50mlNtX+yx8qWqlI36gA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7AAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:t.holzinger@free.fr\">t.holzinger@free.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.255.73), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: SG2APC01HT020.mail.protection.outlook.com<br>Total retry attempts: 3</p><p>t.holzinger@free.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.255.73), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=VLljiIOJjW1eo+OBRK/wcZMEjZ0VVrseTqC9AiOoyg0sw2+iduxjhShw8diuIXcs7W54MBDmgH9mkMhJhQdMzg0um5NNXTL5aDY7qThereZN0DOT2PDHlXemZRIRHMmtT1PjzKa92euEYO2eyLx6pWmb+oVWhumToeQPrEbtVSj38+tyt/NIjAvZ1k408qG5Ra1DcynSh6iHOIksD06Aktia/Ez1izQr3jrZbiKIr/poiiJZHJkM75nXUlpGq4RmYUJFy7am7OcYD74XD8lLmJnGhd0tIGN1dYzJByi2RQJaDc47/yf41X0lysybaWEfTBiymdVxtzhEu5heyoE/Bw==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=ufEC0r4negagfP5vhN7epkU5TigUys7e8l4KQ3oiAT4=;\r\n b=S3kttzgmVOFAN/TB6hgdRPDO5mOYa8x+6Hq1wMV8xBoguuiIahuNNsbFO0qIO93jFKg3wZ2X+A9f07KnxpssjpeFooDbYu8Nzwf4dTgv3LISXWz3/A+kCvr1XiaYTm/tHONcBBv22WbkYJzEmSKTYSJar6gxrzLjTqyuWaphjoQ8lLBfhaGpgloRTrlRES7juejCeBSd7TjghJbPNxXVhbZ85Ju2uSn8XI9NLfv9qmbSx30yp3YDsvf88FPnWpbZGrjdaIaY1izOzvKOcK+CJVj8lv696WP5pHuD8nl7aY+vWW4OQH11V4duhde25SqF6G+r1HbWFkOiX2Oj/hMjOw==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=ufEC0r4negagfP5vhN7epkU5TigUys7e8l4KQ3oiAT4=;\r\n b=Xoce+kdWVPgc5jm47LIHyqlc1nh4R7hHjAxfBuIYrNa7kYwyCgx6y7IEMwTTc/DA0brGc55wdM0BXt4ITqiuZJw+HZRN7rGEbJj2ace87uGq+TJcwuLo+rHBlR6k03knKj+wtCMOdxckjX4PSDDLKOGr2pw/qixyjs61aVWgY8seNZ2OxXZORwIX1SbA1VRsXMx8jp7U5dB/qy56ivqd5X+M7m/3pcW70woEnNhQXe+6P2+icKYJdGyqKheWs7Kv11CvO0sNVorzmJ55FYkfQOmV5+dKcBvxX9ImcTv0KUv6+tInpHs7ADHO8C4fSdtGN0HBkYhc6AaY+AkTaIhKEQ==\r\nReceived: from SG2APC01FT050.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebd::4e) by\r\n SG2APC01HT020.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebd::242)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 12:44:55 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebd::40) by SG2APC01FT050.mail.protection.outlook.com\r\n (2a01:111:e400:7ebd::494) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 12:44:55 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:B0647F9569F83DA0390604D7A1861FFC3A2F44B2EB4B8EDF33D7DD8C3723FF51;UpperCasedChecksum:1FD19A936C29CE75D05EEBC325D34F5CA9528A1F41625C98872F8BC65888A587;SizeAsReceived:8389;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 12:44:55 +0000\r\nMessage-ID: &lt;HK0PR04MB26925FCD7B73AA7D444E0D73DC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;t.holzinger@free.fr&gt;\r\nSubject: D091038062\r\nDate: Tue, 25 Aug 2020 14:44:47 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;10cbf2d56cab07daac5ffe230000a6b0&quot;\r\nX-ClientProxiedBy: LO2P265CA0354.GBRP265.PROD.OUTLOOK.COM\r\n (2603:10a6:600:d::30) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;ad434b29a34b2445c398c4cd0dc40c50@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P265CA0354.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:d::30) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend Transport; Tue, 25 Aug 2020 12:44:54 +0000\r\nX-Microsoft-Original-Message-ID: &lt;ad434b29a34b2445c398c4cd0dc40c50@outlook.com&gt;\r\nX-TMN: [qGADGxXEtKkcNAgxb/DyPXg/e3LJDl1y]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: eed2a03b-e7f7-4faa-baa7-08d848f4aad5\r\nX-MS-TrafficTypeDiagnostic: SG2APC01HT020:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\tdKVL0SMsFAEu3FTLjvNIB/8ZcS/iY+BGWa1TSw5EkSkayoRH7316Pv6Wm/wh9mHcm2aHqhni36b2lW8t64GGYcSvuATnZOWgKqJoO7N3wBwjLCurjvRoOyXjyGvC2KN/e44HAt9STkstONqZy2v/d3diVu5GR/HxgLXNLdcZ1Pu0ySGCvaawYZ6k03gP1NS+1Ifw/ADft3apoxiR6CG1S+Qw1bvr5KHR7n9PZOF6vDbAODU4UQDpCLg9uMG3f1iZ\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\t/nEq8uAhZ8X+x3XBCJx7VMqLoaK0IDt+UiTLwAtz2Aov9M4+32u+Nw0gP7Hk+zssW5YEMxFmgrdPyJNpAylB+E1vkzCbs9z1uTtlh0d2TLkTwO2JJuCnbrnbM3CGfEPWhnXzcvx0lPRxMXmqbiroig==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: eed2a03b-e7f7-4faa-baa7-08d848f4aad5\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 12:44:55.0187\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tSG2APC01FT050.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT020\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "t.holzinger@free.fr",
+                        "address": "t.holzinger@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQq\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7EAAAA=",
+            "createdDateTime": "2020-08-25T14:10:25Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQq",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T14:10:25Z",
+            "sentDateTime": "2020-08-25T14:10:22Z",
+            "hasAttachments": false,
+            "internetMessageId": "<1a36b686-fa8e-411f-ae75-e5431639164a@SG2APC01HT070.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D679750896",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\nt.damico@free.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a probl",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAP7WbfcClIhHm9WmsIraZhg=",
+            "conversationIndex": "AQHWetyh/tZt9wKUiEeb1aawitpmGKlI3TcA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7EAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:t.damico@free.fr\">t.damico@free.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.37), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: SG2APC01HT070.mail.protection.outlook.com<br>Total retry attempts: 3</p><p>t.damico@free.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.37), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=cQbAzxXjuoBzKVKrMvqWyZh5UGvjkWBW2oREKIH0EW0vAxJs+NXk53yXh4SQSS8SW6+oxcbvgSbpBQhHosb07Jf/Gi+v8r5leHBv4FThoQVCCF5WPRWsGHs3PxQ4N49LmaO2Xqk5//qByKuVpMQgDDevMxoGt+6ZZJzTL2r7o6pFm04qgWuBfaUE7tT8ocpqu3mjeRigiLRBSYEgjd/akUsS/YiC+hzIB4gH1Au3Y/7M+ACEmoSTkIFR0sDcDHpJVknHOb3cPJwn8o3Qx0e81eLSR2n8bNzQy+PJWUUSUM9kcapx9VRYloQ0kcLs0UGQikz/EAW4IeSTkh6QDJa5CQ==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=enQgIB/wRy+ntawnuGllUct5wNw1vIDNM2Ho6JQYtLg=;\r\n b=br08N121p20601mPY962FSEg8bENzYEjdsuV4LsJ56rHX67e89rTPphh2VT0OYmZ4yE6dtjreZl1MrRHckLJQE6WS9LcNs3iDKWGhe1PjRuC+edqPRNiG9EvWmcdH2p/GsRwI1O8VGAgSUTmYkDNW7ikn2nfHdP6aosBlyrUnBnNrltrRWOkp3coC94efBezIPMnM0je2NWS8Tse7jS4VG3Wwmhgfx/Gb3tmPiR8FzqEVcL32ye/DD5sI0iUHfePT2BNgQh1rrA3xTylSQwHV4xB52QZUjS8QapPBHpV6YhLobb3D0j890zmn1fgVfP94K5bch2sumFhRP7gXAQEnQ==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=enQgIB/wRy+ntawnuGllUct5wNw1vIDNM2Ho6JQYtLg=;\r\n b=MjSWFqyOTAcYDoRftdIEj7ysJyU5YDzMGWT6vSovC17/1A7CnVOnLLGBn3FkysqyRPtjJYPpgPvkHUJc0nxoIVjRvfoWA62FcQsX7PGVMkqW3CPFBPbhc0/EtGG46W/mozj4xcZ4V29EnbjQtFVny3VCP29/hVzzu89xKq3/1quKpSyRh2dtQFsPSqcV04g5FdWTjZk0k8Mgarj0bEU9NuRNYRqRJc+L82PrRFr/FhqgZ/XqnZMV4dMcNcKyLN0/3cELSojCJHC1jUqbScrpRt8RvqS/9ize5PfjW/pcUF1a0PtDYJ+3Vj4wUptAHo93QrV2cfa0KINzWheRYR8cHg==\r\nReceived: from SG2APC01FT050.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebd::4b) by\r\n SG2APC01HT070.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebd::477)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 12:38:27 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebd::40) by SG2APC01FT050.mail.protection.outlook.com\r\n (2a01:111:e400:7ebd::494) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 12:38:27 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:29BE8EE6E610799CEEA5439C6A1BEB59F2647464366C202C905671277B6F647D;UpperCasedChecksum:F2911C27EDF86DCE0B5D11734E7CCF239A0DA7B4D8FAA45E38D0BF75DB3594D1;SizeAsReceived:8385;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 12:38:27 +0000\r\nMessage-ID: &lt;HK0PR04MB26927CC2065FA1F16AE8FC29DC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;t.damico@free.fr&gt;\r\nSubject: D679750896\r\nDate: Tue, 25 Aug 2020 14:38:22 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;a0b550220a3efa2f338411f2000f6500&quot;\r\nX-ClientProxiedBy: LO2P265CA0442.GBRP265.PROD.OUTLOOK.COM\r\n (2603:10a6:600:e::22) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;ddd99dd0a66d6932a3b31a8103a57cac@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P265CA0442.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:e::22) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3326.19 via Frontend Transport; Tue, 25 Aug 2020 12:38:26 +0000\r\nX-Microsoft-Original-Message-ID: &lt;ddd99dd0a66d6932a3b31a8103a57cac@outlook.com&gt;\r\nX-TMN: [Ur7vmiBDug3MHjZmwU9H32nh2aKsXRAC]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: 0dbecdfb-3d78-44a1-6cb6-08d848f3c3e6\r\nX-MS-TrafficTypeDiagnostic: SG2APC01HT070:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\tAa+BEA+akAaKtrjxYs0GGvFDvUzG1yPIMpWCCH8kv+j+i6hFlMVI67Lze1MYFIMc4t9QAkgIdYf8n8HD1GN+m5cU/la4OI/fVR4lVbNqAZlTeL7XbFMSNiaXSVCbyFkrN7/OZBDTDQNg48LD+0Cn2T/0wzQGIEF0gpfhEAg6g5UVzJqs7biwopLdQRpvl3IHiygNWFglWxUKUkkcrqDs4XvchSY04m4vh5lR4ZCiI/sgJ83JNaL4dBJ5EUds+NKf\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\tC+HDXeqnzirTNa2Apyzt/NYdsRoD42mFs+Vg0GSq03lRL86eeh0w9xl3At7qK8F/yukAF+TkBOBxJ6LV7kd3ndsn4xbNOCE22Y4KAnAMcyllWqPKD+ZmcsbTYqZNcE0m3gVVYPhOeRANmf8Q8Yvi+A==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: 0dbecdfb-3d78-44a1-6cb6-08d848f3c3e6\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 12:38:27.5765\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tSG2APC01FT050.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT070\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "t.damico@free.fr",
+                        "address": "t.damico@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQt\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7IAAAA=",
+            "createdDateTime": "2020-08-25T14:01:13Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQt",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T14:01:13Z",
+            "sentDateTime": "2020-08-25T14:01:09Z",
+            "hasAttachments": false,
+            "internetMessageId": "<3b33c4dd-3ded-481a-bd62-c3c4f1f41026@HK2APC01HT040.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D350665225",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\ntallet59155@free.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a pr",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAGKMdbFIS9BAteXjbshgzjM=",
+            "conversationIndex": "AQHWeuOaYox1sUhL0EC15eNuyGDOM6lI2paA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7IAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:tallet59155@free.fr\">tallet59155@free.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.108), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: HK2APC01HT040.mail.protection.outlook.com<br>Total retry attempts: 2</p><p>tallet59155@free.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.254.108), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=C3OKweX5LdcURo34S+s41/2YI9OEDkAExP+GcLQRYO97WYXunX1IbEPTGZy6uQab8AcmP5PmkqD67xF9blQdEhJ27FzlcNm6/mQY1pgukN9KjnZXHs5tRmrl8QsZJ1Sz6McQqlY9Ztnt7JE6Lh2GZlkoyVRZvrpp+AYDfwUFnepUnA0/2cSY6kkQ4cmk8lqBbBLsLcy39srHpUgT63267Uz9hpLQp1A2v/NFGSNS/aaG2eiwevwkBgA0oMLnL3+Dq5GPghdBKIq948+biTwxnmKkEwjxqsiY+2j3Z+TQcTBE3E1IXBObNzJtP3S1oFQ5awPhlkorhRuI1wWovky3YQ==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=4rJj8cjlgOe1zVslxnmUvhKJMzjMYm72u+JcZRjbqUI=;\r\n b=bltc5MkFoVtchmcvzh+KTHtEpC4vFIKdWb969KTjOMLAIIljpqUucM8araG2GRAFDmtXevxSVJej3QCki8biNtiyTBzG19NnHjXoiN2hkalALMVtdiaa4k0RoBc35z+KHGZDRdQYOurEloSX6ssHp/d5eSbkUsfySx5eD+aUzEHylycDWR0DypP0izeeSguWdTi5rHMmbvSx31CwTabrW8TSJhU4x+Fzvn9wn1kzi+jCkA/F6NkDPtcyvlnaUHcd6j/Wo6zn1CLrzUFvnC4lolBoeN7wm7lUT2111kmwmnljPLaqtKIl9Pgc7h2muxjz9A01hToyca0aTg3sOxmVLw==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=4rJj8cjlgOe1zVslxnmUvhKJMzjMYm72u+JcZRjbqUI=;\r\n b=rgsyjbok5a2/1T01C0mnP8FSPsITBS0CHEDXA2PNk0N7RFY/euJfOHuFyOQXKExEyrgPzYnTSPJAZoLzArMZLSCmQLKue93v+1xmWrG/WJX1od8jE+VNhsawJBrXhN8uo9TT4PrDBlGmgh6duW05z88ePv7g1lzdLCG3O3eEaOtirkLQW9zHMilqYt5keNBsarkJEcFOCcKnySLpU2ZIlndxfxuMGJU82FkOAgDK4L1NQzo7fQa72CxWpgElEx97sRFVFrKZW1jqVZZgW7z5/IHdDLaFk/ZjLfbhdc/tOfgN/z31AkAectU8z0GBIsLxPzSq2wb9cItrjHW+m8njQg==\r\nReceived: from HK2APC01FT064.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebc::44) by\r\n HK2APC01HT040.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebc::451)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 13:28:22 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebc::49) by HK2APC01FT064.mail.protection.outlook.com\r\n (2a01:111:e400:7ebc::364) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 13:28:22 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:241CEC60635DE372C1DD1A08C84D5162DA922B1186CED97FEB4DB16166D6C037;UpperCasedChecksum:7A5A5207142BE6664A9730901B2B3AA42A906192193CF110544764EDDCBB3587;SizeAsReceived:8393;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 13:28:22 +0000\r\nMessage-ID: &lt;HK0PR04MB269214C1F18DB4A398D96570DC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;tallet59155@free.fr&gt;\r\nSubject: D350665225\r\nDate: Tue, 25 Aug 2020 15:28:16 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;c574af18e31526edfe1ac921000c1360&quot;\r\nX-ClientProxiedBy: LO2P265CA0299.GBRP265.PROD.OUTLOOK.COM\r\n (2603:10a6:600:a5::23) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;7da89228eec0f69bd0aa81ac147eec55@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P265CA0299.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:a5::23) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3326.19 via Frontend Transport; Tue, 25 Aug 2020 13:28:21 +0000\r\nX-Microsoft-Original-Message-ID: &lt;7da89228eec0f69bd0aa81ac147eec55@outlook.com&gt;\r\nX-TMN: [K6nbPkXDLmJ6fJq/ydVESc6/4waaH0Rh]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: 54a74814-d1d8-47d6-2332-08d848fabd10\r\nX-MS-TrafficTypeDiagnostic: HK2APC01HT040:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\tcG0VcebDDdd520aT8i/aLq9//Js6c2Mxzb+TJdZKUNG41DEJ33iUqMOfeCLPMdmSJody5/YoJe0ascv/8QKLi8eUR0H4f95rD+JHUW+hQyq55ESj4RCJZncItMRiWHh/o0gZOJrhINZBbTWCX8nNj3DqEllVUg0dzqM9vzKsLJvR7vxQibfK6d1D5LpSCKsfxa/8CXsslOaOdkk4biUkBEmPt1fGJjwiRAM3EGmb1KVpMfhGdGBldN69Q40j5QDH\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\t+rzuBE0QrBDT4lrzxyREG2kc2b6Bt+QL+xfQeUmcrlGMEESnNGyVe8uRB6wgZXCDUVP4pguQ+ov+q1Y9SAgQcrMUCDDtxoVDrS2kZutdnKXBB/eCmtD/6MBWraP4itXkXElt1Tki3+0kumS9vV9GEQ==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: 54a74814-d1d8-47d6-2332-08d848fabd10\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 13:28:22.5839\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tHK2APC01FT064.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: HK2APC01HT040\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "tallet59155@free.fr",
+                        "address": "tallet59155@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQw\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7MAAAA=",
+            "createdDateTime": "2020-08-25T14:00:01Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQw",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T14:00:01Z",
+            "sentDateTime": "2020-08-25T13:59:58Z",
+            "hasAttachments": false,
+            "internetMessageId": "<0d80dab6-3266-4c5a-a840-07af33ad1878@HK2APC01HT054.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D510997051",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\nsylviie@free.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a proble",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAD-g-rSZ5PBBnFiO8GnXA3Y=",
+            "conversationIndex": "AQHWetj8P+D+tJnk8EGcWI7wadcDdqlI2lYA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7MAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:sylviie@free.fr\">sylviie@free.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.253.30), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: HK2APC01HT054.mail.protection.outlook.com<br>Total retry attempts: 1</p><p>sylviie@free.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.253.30), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>Received: from PU1APC01HT049.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebe::341) by\r\n HK2APC01HT054.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebc::460)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 13:45:31 +0000\r\nARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=AtXUiaYem2AoZYKBQmZeYRIxGH6PTxe3WESIgR163oFyRm0cMrJczE7uZwQOHys2V2IycZFOIklcp7nyEi/86DJSlr5xnVrt+wHF7+41K4BavThFU5r51v3kwPNHZGusfNV3VC9fgZbU1U0jWCGBAURMeZmJJlleCQdZrN41/rb5rtbP9F2cUZGPln4pR0HLzz1koCfvuu9tQQp+ibdDchmxWvCmfmLsL8yuEPOaPtVCf4ej4mlEpVcgww7VKTOd3C1ag25VtTf9TldJSMtKzG/QUKijFouc7gse6H1w3U/Uo4ex5k+b5/GPhoXRmvM2gzEWSfnEwA3IWxEm0aaYZA==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=lfoDXfPWxWahFXr+4ogYEoSFWtVMuEnTkl5paqmbMEs=;\r\n b=P9ya9aTxeyMKpKv5HOWpdZuir7mJJFPiwZf4zYmxQmggbDRRQoPQhuLn+hOXuUzSoYcP6nlIcKty9UWA+/rfDkAA+ualP0rqYGAW39jamTgheBVsre3BWvbuf7t4fAno+Z4sEgwZ70hFG2t1QgotuEIpSckFfqOPHjRt8Temsi1LKpP9Qjup4qOplbxWLt1PmknMfyuM3SuQMHfFiS6Gy3T2Ke6ZazFWHhk+yR4xnvP+bMCPZ0OGVA+FMhLYvOMKAkd7KmuWwSIqHNYxmYdjZKZu6aSmWGYY/OPYlfpZB8n9/EQWl8bMe2BYBd7eszqviIY6NyeQwpRtsp6hd/ZIog==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=lfoDXfPWxWahFXr+4ogYEoSFWtVMuEnTkl5paqmbMEs=;\r\n b=lCCjoIR28j/kfwx6/T/O/ZPfIP6eGGKkI6Cim6yAW6FgaaAdYCkgC4zWnJbVf+kasDJtflo+e+Qks+0ZTg+2TakBq/kL724hmNhQYDw8q4uK7ZPE5Ul0mklhjvmtRGNWWvkgxpBJTRuNkDC38MIWld6ukexImBcSE9N74STmPav/FEod1Z+/R1WQgtwaYFhkuP3fDAAieEB7nNwR2w1Uh7ur5Rdyt7jHTRFLx4f4G8pcZitg3kX9PTdqEoBNp4XCYXQp5qrN1oiINNji+vRn4LRNMRCdmSNngUT8aFKMjxpAqfSWoqwl3mdUQtratqVbAgYyGgmFcn4CIfAV9Jbphg==\r\nReceived: from PU1APC01FT064.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebe::51) by\r\n PU1APC01HT049.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebe::341)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 12:12:22 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebe::43) by PU1APC01FT064.mail.protection.outlook.com\r\n (2a01:111:e400:7ebe::326) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 12:12:22 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:AB17E04A8F588EE8DD0547ED4D15909D80D0CD438278485604CEFB96B5DA663D;UpperCasedChecksum:00164C32B140B4899F20DFA988174E3AF4DD07ADA999F20B5C953DCD2B9D7E7A;SizeAsReceived:8388;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 12:12:22 +0000\r\nMessage-ID: &lt;HK0PR04MB2692C6E442D63DB08ECCEADDDC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;sylviie@free.fr&gt;\r\nSubject: D510997051\r\nDate: Tue, 25 Aug 2020 14:12:15 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;5872363d7074ece26792f4d00001de70&quot;\r\nX-ClientProxiedBy: LO2P265CA0003.GBRP265.PROD.OUTLOOK.COM\r\n (2603:10a6:600:62::15) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;8cf8f38fbe03e6d413653b4917223dd5@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LO2P265CA0003.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:62::15) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3326.19 via Frontend Transport; Tue, 25 Aug 2020 12:12:21 +0000\r\nX-Microsoft-Original-Message-ID: &lt;8cf8f38fbe03e6d413653b4917223dd5@outlook.com&gt;\r\nX-TMN: [S653BA1vh1oE10ECi1FqjhXGo916hQtG]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: e4c59c7a-40cc-445d-3204-08d848f01ec3\r\nX-MS-TrafficTypeDiagnostic: PU1APC01HT049:|HK2APC01HT054:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info: I9+0Auye5WUGI38SLiX+6GNFu09BaaaydMNBGHW+ia9QnWVROaLDBkBswS4oKknlpsKk0TLyShUbdcImL7Yl3oqvSMpkF/0j3W6Y/aFxJQpdpYMAA0dnPyromdm5BHMvXTt7LJoSGagPOeldXn3yQk7PFHVk5GcVEjJoCRM+FV8T3q/9Xj3Dg9c0QgW6n4laFm3UH8RvBaJtb8gEJqD+BCMxsCgT/aZ5DB04f0nsRCele2THk0v99X7N0d1omoGP\r\nX-MS-Exchange-AntiSpam-MessageData: mWlNEUMvoxE24xODBbfHXOOqoko4OXtQSAi52Mg4k11t+eN66PWWrdMddLjOGdfN4lnj7PEqWQHqo61yEk+9mjMC1U8Dv+/d5kjwnuOGGB1XIMleHS29fKApwEOlwypNLK2t+riQyDlDCAbKTjI41A==\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: e4c59c7a-40cc-445d-3204-08d848f01ec3\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 12:12:22.0373\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource: PU1APC01FT064.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: PU1APC01HT049\r\nX-OriginatorOrg: outlook.com\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "sylviie@free.fr",
+                        "address": "sylviie@free.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        },
+        {
+            "@odata.etag": "W/\"FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQz\"",
+            "id": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7QAAAA=",
+            "createdDateTime": "2020-08-25T13:56:25Z",
+            "lastModifiedDateTime": "2020-08-25T15:33:02Z",
+            "changeKey": "FwAAABYAAADFgTdONjAlRoSBIVW5eFNjAAAQiWQz",
+            "categories": [],
+            "receivedDateTime": "2020-08-25T13:56:26Z",
+            "sentDateTime": "2020-08-25T13:56:22Z",
+            "hasAttachments": false,
+            "internetMessageId": "<40faa4d5-334a-4d98-a524-64849bd48af0@SG2APC01HT065.mail.protection.outlook.com>",
+            "subject": "Undeliverable: D386098655",
+            "bodyPreview": "mx1-g20.free.fr rejected your message to the following email addresses:\r\n\r\nszczepaniak@aliceadsl.fr\r\nYour message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to",
+            "importance": "normal",
+            "parentFolderId": "AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAuAAADQ8971JIFt0GhMsLZ5KrzmwEAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAA",
+            "conversationId": "AQQkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgAQAMbSXqX_4YlKgXbwoXQXRlk=",
+            "conversationIndex": "AQHWetqvxtJepf7hiUqBdvChdBdGWalI2VIA",
+            "isDeliveryReceiptRequested": null,
+            "isReadReceiptRequested": false,
+            "isRead": false,
+            "isDraft": false,
+            "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM3ZmYAZS0zMjE4LTE5MDItMDACLTAwCgBGAAADQ8971JIFt0GhMsLZ5KrzmwcAxYE3TjYwJUaEgSFVuXhTYwAAAgEKAAAAxYE3TjYwJUaEgSFVuXhTYwAAABCMz7QAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "inferenceClassification": "focused",
+            "body": {
+                "contentType": "html",
+                "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta content=\"text/html; charset=us-ascii\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">mx1-g20.free.fr rejected your message to the following email addresses:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:szczepaniak@aliceadsl.fr\">szczepaniak@aliceadsl.fr</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. When Office 365 tried to send the message, the external email server returned the error below. This is probably due to a problem or policy setting on the recipient's email system.</p><p>Check the error for information about the problem. The error might tell you what went wrong and how to fix it. For example, if it says the message was blocked due to a potential virus, try sending the message again without attachments.</p><p><b>For Email Admins</b><br>This error was reported by an email server outside Office 365, and if the sender is unable to fix the problem by modifying their message then it's likely that it's a problem that only the recipient's email admin can fix.</p><p></p><ol><li><b>Check the error for information about the problem.</b> The error might tell you what went wrong and provide clues for how to fix it. For example, if it says the message was rejected due a Sender Policy Framework (SPF) issue then you'll have to work with your domain registrar to properly configure your SPF record.</li><br><li><b>Check the error for information about where the problem is happening.</b> For example, look for a domain name like contoso.com. This tells you which organization was responsible for the error. The recipient's email server could be causing the problem, or it could be due to a third-party service that your organization or the recipient's organization is using to process or filter email messages.</li><br><li><b>If you can't fix the problem, contact the responsible party's email admin.</b> This could be the recipient's email admin, your smart host service admin, or someone similar. Provide them with the error code and error message from this non-delivery report (NDR) to help them troubleshoot the issue.</li></ol><p>Unfortunately, Office 365 support is unlikely to be able to help with these kinds of externally reported errors.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p><b>mx1-g20.free.fr gave this error:<br>Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.253.83), please visit http://postmaster.free.fr/ <br></b></p><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: SG2APC01HT065.mail.protection.outlook.com<br>Total retry attempts: 3</p><p>szczepaniak@aliceadsl.fr<br>mx1-g20.free.fr<br>Remote Server returned '550 5.0.350 Remote server returned an error -&gt; 554 too many errors detected from your IP (40.92.253.83), please visit http://postmaster.free.fr/'<br></p><p>Original message headers:</p><pre>ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;\r\n b=oKscDxlQmIUPBfY2sry9phVz0cQuAr3ngfd0zN5C5dM9flIFPAxH1xK4Opd2y+x5VVuaxdaVcyptdkajZ4BAIgPJrtPlj0sTmZ1NfIko6GaXbMHipaqG5RZxbc57aj4jVVzIx0rljXqxbErt4VxWI5n+JFQ9O0LEhqIOQTTJ3q8hmksmbN6cpEOv8Ry/2hBPtSiqsWMN+7DiXaRsCioQxbH9V12L0m5gPktX2r0MuLEXidm3lXU8unpWEE2mJczDs42aqCwY/9f923/jWDlPi/vcxJyXCWToM9KDouIMbEhzMcv64kXS/dWXl9afY7Qjpf1hbteVdMZ9sxToiLhyBw==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector9901;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=vBtPfpqKQTF6VB3Mp12Nqjt5cNeZfcvDXLKQ7Rt7ku0=;\r\n b=eDeVpadLSgAzZwe5jtgy5EIYpgwacOQs/OZeMf6tndEG1vtfNrgwfJuHfN/0uS+zVbsinx0/3SbnlMvBJ2fV1qQML5ObJ5bcOiTQYKfdIvDya4BMLKwOmJQjdqheosvY2mXtIpy5+qIthsYGOQP7+vgxmy5F3b+yX72w3onReuCmiSNnkxUmmxhDYRomtRstdiRlakhLeM3uqGt5m1Kk+2InEcmIVAejRHN7DMiE/8fLzvRNwlTqS+vy5w08kz4mhc1BOH5tlN0dIDS/DCRllL8zy0WW5u00aq5IRn8qFUhHjtCBkJYHjoCiG95n9FG3x1YgMTdSou0cUvSXRBXj4w==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=vBtPfpqKQTF6VB3Mp12Nqjt5cNeZfcvDXLKQ7Rt7ku0=;\r\n b=BwmhoOK2JS0NMSoBDolYL00R2nYsKkLoPqfQ2WYb7+sIzdrSOnoidvBllippSf+FIT0YkiZ5oBwih+eiCyH0anLitmEErQfe3jwGOCM8od9CYfv49DMXFWw+CO6eVU2yM0fSBqDGR5RLZ/hdmuqomVuCZEo5cfoiMJqGew410+0QRaKAWN83QgRtjJaenYNiq6oBZYKA3UzIKVpSSQQdaStvMsUatr1E6uklE7oyckPWzTufbu+ehC1i/9fPY0vTxtzpRcL1CpsYUBJhMKsQu6+Ca1ODwllC0A2WQ7MzJgyJi0NKak3xeFwfLLM+HjE4WF6oa6axmwtxUSgUt+tSpg==\r\nReceived: from SG2APC01FT028.eop-APC01.prod.protection.outlook.com\r\n (2a01:111:e400:7ebd::4d) by\r\n SG2APC01HT065.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebd::386)\r\n with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24; Tue, 25 Aug\r\n 2020 12:24:31 +0000\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2a01:111:e400:7ebd::42) by SG2APC01FT028.mail.protection.outlook.com\r\n (2a01:111:e400:7ebd::196) with Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.24 via Frontend\r\n Transport; Tue, 25 Aug 2020 12:24:31 +0000\r\nX-IncomingTopHeaderMarker: OriginalChecksum:93A6CF8CCA306CC543731AC85FDF12AB2CE24D0846A8AC0C6017351AF2DCC710;UpperCasedChecksum:27D6611139E0A173E93B357B5CE9DE2CC2C9FAFBC32E6EA53DAD979013078197;SizeAsReceived:8388;Count:43\r\nReceived: from HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9]) by HK0PR04MB2692.apcprd04.prod.outlook.com\r\n ([fe80::d52f:9b63:6889:4fd9%7]) with mapi id 15.20.3305.026; Tue, 25 Aug 2020\r\n 12:24:31 +0000\r\nMessage-ID: &lt;HK0PR04MB2692411D71CE4B3D800BC4C9DC570@HK0PR04MB2692.apcprd04.prod.outlook.com&gt;\r\nFrom: &quot;PAIEMENT CER&quot; &lt;pr330516@outlook.com&gt;\r\nTo: &lt;szczepaniak@aliceadsl.fr&gt;\r\nSubject: D386098655\r\nDate: Tue, 25 Aug 2020 14:24:25 +0200\r\nContent-Type: multipart/alternative;\r\n\tboundary=&quot;7c62b16952058cf220c1b80b000a4440&quot;\r\nX-ClientProxiedBy: LNXP265CA0052.GBRP265.PROD.OUTLOOK.COM\r\n (2603:10a6:600:5d::16) To HK0PR04MB2692.apcprd04.prod.outlook.com\r\n (2603:1096:203:62::15)\r\nReturn-Path: pr330516@outlook.com\r\nX-Microsoft-Original-Message-ID: &lt;abd6c43fc2668b0239d6ef5b2b74ccb3@outlook.com&gt;\r\nMIME-Version: 1.0\r\nX-MS-Exchange-MessageSentRepresentingType: 1\r\nReceived: from vps-58274.domain (188.213.26.111) by LNXP265CA0052.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:5d::16) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3305.26 via Frontend Transport; Tue, 25 Aug 2020 12:24:30 +0000\r\nX-Microsoft-Original-Message-ID: &lt;abd6c43fc2668b0239d6ef5b2b74ccb3@outlook.com&gt;\r\nX-TMN: [t6Bw9VRuSb1dyfN5SsVjjSUa7ozqnu93]\r\nX-MS-PublicTrafficType: Email\r\nX-IncomingHeaderCount: 43\r\nX-EOPAttributedMessage: 0\r\nX-MS-Office365-Filtering-Correlation-Id: 71ec0dd7-be84-41f1-73de-08d848f1d162\r\nX-MS-TrafficTypeDiagnostic: SG2APC01HT065:\r\nX-Microsoft-Antispam: BCL:0;\r\nX-Microsoft-Antispam-Message-Info:\r\n\tcqvfBCeNl0f4suBJ96InhBEn3hu8GwUAPvYcfiUBoRDhDapcZDwdikFTzxJiwvBTs1Iueh23+yMWprVEa7RwqzvmAMRsLCF2M4qfpGpTunWQRPaA85rFKPl5BzjeZme2vMEpw4oIsMPgUHOoLw69UQ3y8E0BludcxycFSE9x9UifgaEmwCnDFld/oKgAn0CCxufV8TpErl8cIc0NfYct6t1ygZtkbN0BHe3+c6pNG3AL4Kw9QsEoF1cikBie4e6t\r\nX-MS-Exchange-AntiSpam-MessageData:\r\n\tJSjkfIxi92ajwpO/czASrv3zRSh6+yXoL99tVHQTHsm/pXnpPeEWjHgje6fHKbIVOHM2YZKxC43Nb/wAvumRAQiJpVNE0wRy2nP5tytl8Q2bqzAU97l1TOw3ZGvYvjzaDNvveFkq21eFdGh8NgRGEQ==\r\nX-OriginatorOrg: outlook.com\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: 71ec0dd7-be84-41f1-73de-08d848f1d162\r\nX-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2020 12:24:31.2182\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Hosted\r\nX-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-AuthSource:\r\n\tSG2APC01FT028.eop-APC01.prod.protection.outlook.com\r\nX-MS-Exchange-CrossTenant-AuthAs: Anonymous\r\nX-MS-Exchange-CrossTenant-FromEntityHeader: Internet\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:\r\n\t00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT065\r\n</pre></font></body></html>"
+            },
+            "sender": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "from": {
+                "emailAddress": {
+                    "name": "Microsoft Outlook",
+                    "address": "postmaster@outlook.com"
+                }
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "name": "szczepaniak@aliceadsl.fr",
+                        "address": "szczepaniak@aliceadsl.fr"
+                    }
+                }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "replyTo": [],
+            "flag": {
+                "flagStatus": "notFlagged"
+            }
+        }
+    ]
+}
